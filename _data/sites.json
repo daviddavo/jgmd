@@ -42,6 +42,13 @@
     "notes_cz": "Depending on you area you must follow the instructions shown in 'https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'"
 },
     {
+    "name": "Snapchat",
+    "meta": "popular",
+    "url": "https://support.snapchat.com/en-US/a/download-my-data",
+    "difficulty": "easy",
+    "notes_en": "Log into your account on accounts.snapchat.com, click \"My Data\", once you submit your request, Snapchat send you a download link via email to the verified email address associated with your account."
+},
+    {
     "name": "1688",
     "url": "https://1688.com",
     "difficulty": "hard",
@@ -298,5 +305,17 @@
     "url": "https://www.adobe.com/privacy/privacy-contact.html#form",
     "difficulty": "hard",
     "notes_en": "Go to the URL provided above and submit a request."
+},
+{
+    "name": "Twitch",
+    "url": "https://www.twitch.tv/p/legal/privacy-notice/",
+    "difficulty": "hard",
+    "notes_en": "Send an email to privacy@twitch.tv and include your email address, name, address, and telephone number and specify all relevant background"
+},
+{
+    "name": "Spacehey",
+    "url": "https://spacehey.com/settings",
+    "difficulty": "medium",
+    "notes_en": "Go to the URL provided above and click on, 'Please send us an email'."
 }
 ]
