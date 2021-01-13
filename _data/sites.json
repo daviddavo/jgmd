@@ -156,9 +156,9 @@
     "name": "Microsoft",
     "url": "https://microsoft.com/",
     "difficulty": "hard",
-    "notes_en": "Not all personal data processed by Microsoft can be accessed or controlled using the tools above. If you want to access or control personal data processed by Microsoft, that the above tools are not available or directly through the Microsoft products you use, you can always contact Microsoft at the address in the section How to contact us or using our web form.",
-    "notes_es": "Not all personal data processed by Microsoft can be accessed or controlled using the tools above. If you want to access or control personal data processed by Microsoft, that the above tools are not available or directly through the Microsoft products you use, you can always contact Microsoft at the address in the section How to contact us or using our web form.",
-    "notes_cz": "Not all personal data processed by Microsoft can be accessed or controlled using the tools above. If you want to access or control personal data processed by Microsoft, that the above tools are not available or directly through the Microsoft products you use, you can always contact Microsoft at the address in the section How to contact us or using our web form."
+    "notes_en": "Not all personal data can be accesed using the tools above. If you want to access all the data it is needed to contact them using 'How to contact with us' or using their web form..",
+    "notes_es": "No todos los datos personales se pueden acceder a través de las herramientas enlazadas. Si quieres acceder a todos los datos que posee Microsoft es necesario contactar con ellos utilizando 'Contactar con nosotros'.",
+    "notes_cz": "Not all personal data can be accesed using the tools above. If you want to access all the data it is needed to contact them using 'How to contact with us' or using their web form.."
 },
 {
     "name": "MSI",
@@ -270,9 +270,9 @@
     "name": "BBVA",
     "url": "https://web.bbva.es/index.html?v=12.3.22#areapersonal/menu/privacidadydatos",
     "difficulty": "easy",
-    "notes_en": "On 'My profile' section, click on 'Security and privacy'. It will aperance a new page, you must to access to 'Privacity and Data' and click on 'Get Portability'. Just only need to keep wait for a file with your data in the same page.",
-    "notes_es": "On 'My profile' section, click on 'Security and privacy'. It will aperance a new page, you must to access to 'Privacity and Data' and click on 'Get Portability'. Just only need to keep wait for a file with your data in the same page.",
-    "notes_cz": "On 'My profile' section, click on 'Security and privacy'. It will aperance a new page, you must to access to 'Privacity and Data' and click on 'Get Portability'. Just only need to keep wait for a file with your data in the same page."
+    "notes_en": "On 'My profile' section, click on 'Security and privacy'. Go to 'Privacity and Data', click on 'Get Portability' and wait until it's done.",
+    "notes_es": "On 'My profile' section, click on 'Security and privacy'. Go to 'Privacity and Data', click on 'Get Portability' and wait until it's done.",
+    "notes_cz": "On 'My profile' section, click on 'Security and privacy'. Go to 'Privacity and Data', click on 'Get Portability' and wait until it's done.",
 },
 {
     "name": "Booking",
