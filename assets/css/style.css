@@ -50,6 +50,7 @@ nav {
 .dropdown .ca-ES a,    .ca-ES a    { background-image: url(../icons/flags/ca-ES16.png); }
 .dropdown .nl-NL a,    .nl-NL a    { background-image: url(../icons/flags/nl-NL16.png); }
 .dropdown .it-IT a,    .it-IT a    { background-image: url(../icons/flags/it-IT16.png); }
+.dropdown .pl-PL a,    .pl-PL a    { background-image: url(../icons/flags/pl-PL16.png); }
 
 #cs-CZ    { background-image: url(../icons/flags/cs-CZ24.png); }
 #en-GB    { background-image: url(../icons/flags/en-GB24.png); }
@@ -61,6 +62,7 @@ nav {
 #ca-ES    { background-image: url(../icons/flags/ca-ES24.png); }
 #nl-NL    { background-image: url(../icons/flags/nl-NL24.png); }
 #it-IT    { background-image: url(../icons/flags/it-IT24.png); }
+#pl-PL    { background-image: url(../icons/flags/pl-PL24.png); }
 
 nav a {
     color: black;
