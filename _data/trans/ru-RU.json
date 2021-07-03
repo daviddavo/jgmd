@@ -1,7 +1,7 @@
 {
-    "about": "О приложении",
+    "about": "Тип характера",
     "contribute": "Внести свой вклад на GitHub",
-    "difficulty": "сложность",
+    "difficulty": "трудности",
     "difficulty_easy": "легко",
     "difficulty_hard": "трудно",
     "difficulty_impossible": "невозможно",
@@ -26,7 +26,7 @@
     "link_jdm": "Посетить JustDeleteMe",
     "mikerogers": "Майк Роджерс",
     "name": "Русский",
-    "noinfo": "Нет доступной информации",
+    "noinfo": "Vk. com",
     "noresults": "Не можете найти то, что искали?",
     "noresultshelp": "Помогите сделать JustGetMyData лучше",
     "popular": "Популярные",
