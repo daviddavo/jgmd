@@ -378,5 +378,12 @@
     "difficulty": "hard",
     "notes_en": "Send an email requesting a copy of your data to privacy@craigslist.org.",
     "notes_es": "Envía un email pidiendo una copia de tus datos a privacy@craigslist.org."
+},
+{
+    "name": "ZombieLink",
+    "url": "https://zombiesrungame.com/zombielink/account",
+    "difficulty": "easy",
+    "notes_en": "Scroll down to 'Data Download' and click red button: 'Request Download'",
+    "notes_pl": "Zjedź w dół do 'Data Download' i kliknij czerwony przycisk: 'Request Download'"
 }
 ]
