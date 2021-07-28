@@ -5,7 +5,8 @@
     "url": "https://takeout.google.com/",
     "difficulty": "easy",
     "notes_en": "Go to https://takeout.google.com/ logged in a Google Account and select the data from every Google Service you need/want and click \"Next Step\". Then you can choose between export now or once every 2 months for 1 year, the file type and size. Click \"Create Export\" and wait until the process is finished. Then, just download your data.",
-    "notes_es": "Ve a https://takeout.google.com/, inicia sesión con tu cuenta de Google, selecciona los servicios que necesites. Puedes elegir entre exportar ahora o exportar cada 2 meses durante un año."
+    "notes_es": "Ve a https://takeout.google.com/, inicia sesión con tu cuenta de Google, selecciona los servicios que necesites. Puedes elegir entre exportar ahora o exportar cada 2 meses durante un año.",
+    "notes_pl": "Wejdź na stronę https://takeout.google.com/, zaloguj się za pomocą swojego konta Google, wybierz potrzebne usługi. Możesz wybrać eksport teraz lub eksport co 2 miesiące przez rok."
 },
     {
     "name": "Amazon",
@@ -14,7 +15,8 @@
     "difficulty": "medium",
     "notes_es": "Ve a https://www.amazon.es/gp/help/customer/display y abajo, en \"Consulta nuestras p\u00e1ginas de ayuda\", ve a \"Privacidad\" y haz click en \"Solicitar tu informaci\u00f3n personal. All\u00ed, dale a \"Solicitar mis datos\" y selecciona los datos que quieras/necesites. Al darle a \"Enviar Solicitud\" se te enviar\u00e1 un correo a la direcci\u00f3n de la cuenta de Amazon. Simplemente dale a confirmar y te llevar\u00e1 a Amazon, donde te har\u00e1n esperar hasta que tus datos est\u00e9n listos.",
     "notes_en": "Go to https://www.amazon.com/gp/help/customer/display and down, in browse help topic, go to \"Security & Privacy\" and \"How Do I Request My Data?\". There click \"Request My Data\", choose whatever you need/want and click \"Send Request\". An e-mail will be send to your Amazon linked e-mail to confirm the Data Request. Just click confirm and wait until the data is ready for download.",
-    "notes_cz": "Go to https://www.amazon.com/gp/help/customer/display and down, in browse help topic, go to \"Security & Privacy\" and \"How Do I Request My Data?\". There click \"Request My Data\", choose whatever you need/want and click \"Send Request\". An e-mail will be send to your Amazon linked e-mail to confirm the Data Request. Just click confirm and wait until the data is ready for download."
+    "notes_cz": "Go to https://www.amazon.com/gp/help/customer/display and down, in browse help topic, go to \"Security & Privacy\" and \"How Do I Request My Data?\". There click \"Request My Data\", choose whatever you need/want and click \"Send Request\". An e-mail will be send to your Amazon linked e-mail to confirm the Data Request. Just click confirm and wait until the data is ready for download.",
+    "notes_pl": "Wejdź na stronę https://www.amazon.com/gp/help/customer/display i w dół, w poszukiwaniu tematu pomocy, przejdź do sekcji 'Bezpieczeństwo i prywatność' i "Jak mogę zażądać moich danych? Tam kliknij 'Request My Data', wybierz, czego potrzebujesz i kliknij 'Send Request'. Na Twój adres e-mail powiązany z Amazonem zostanie wysłana wiadomość e-mail z prośbą o potwierdzenie prośby o dane. Wystarczy kliknąć 'Potwierdź' i poczekać, aż dane będą gotowe do pobrania."
 },
     {
     "name": "Reddit",
@@ -23,7 +25,8 @@
     "difficulty": "easy",
     "notes_en": "Go to https://www.reddit.com/settings/data-request while being logged in Reddit. Once there, click on getting the data from a range of time or all. Then, wait for the private message in reddit, click in \"Download here\" and we are done. WARNING: you can only do a data request once every 30 days.",
     "notes_es": "Ve a https://www.reddit.com/settings/data-request tras haber iniciado sesión en Reddit. Dese ahí, puedes obtener tus datos desde un intervalo de tiempo o todos los datos. Recibirás un mensaje privado con el que podrás descargar los datos.",
-    "notes_cz": "Go to https://www.reddit.com/settings/data-request while being logged in Reddit. Once there, click on getting the data from a range of time or all. Then, wait for the private message in reddit, click in \"Download here\" and we are done. WARNING: you can only do a data request once every 30 days."
+    "notes_cz": "Go to https://www.reddit.com/settings/data-request while being logged in Reddit. Once there, click on getting the data from a range of time or all. Then, wait for the private message in reddit, click in \"Download here\" and we are done. WARNING: you can only do a data request once every 30 days.",
+    "notes_pl": "Wejdź na stronę https://www.reddit.com/settings/data-request będąc zalogowanym na Reddit. Po wejściu tam, kliknij na pobieranie danych z zakresu czasu lub wszystkich. Następnie poczekaj na prywatną wiadomość w reddit, kliknij w 'Pobierz tutaj' i gotowe. UWAGA: prośbę o dane można wykonać tylko raz na 30 dni."
 },
     {
     "name": "Telegram",
@@ -335,28 +338,32 @@
     "url": "https://spacehey.com/settings",
     "difficulty": "medium",
     "notes_en": "Go to the URL provided above and click on, 'Please send us an email'.",
-    "notes_es": "Entra en la dirección indicada arriba y haz click en, 'Please send us an email'."
+    "notes_es": "Entra en la dirección indicada arriba y haz click en, 'Please send us an email'.",
+    "notes_pl": "Wpisz powyższy adres i kliknij 'Wyślij nam wiadomość e-mail'."
 },
 {
     "name": "Badoo",
     "url": "https://badoo.com/feedback",
     "difficulty": "hard",
     "notes_en": "Go to the url provided above and submit a request, picking 'General question' as subject, or send an email to DPO@corp.badoo.com.",
-    "notes_es": "Entra en la dirección indicada arriba y envía una solicitud, selecionando como asunto 'Pregunta general', o envía un email a DPO@corp.badoo.com."
+    "notes_es": "Entra en la dirección indicada arriba y envía una solicitud, selecionando como asunto 'Pregunta general', o envía un email a DPO@corp.badoo.com.",
+    "notes_pl": "Wejdź na powyższy adres i wyślij zapytanie, wybierając jako temat 'Zapytanie ogólne', lub wyślij e-mail na adres DPO@corp.badoo.com."
 },
 {
     "name": "Zoom",
     "url": "https://zoom.us/gdpr",
     "difficulty": "hard",
     "notes_en": "Send an email requesting a copy of your data to privacy@zoom.us.",
-    "notes_es": "Envía un email pidiendo una copia de tus datos a privacy@zoom.us."
+    "notes_es": "Envía un email pidiendo una copia de tus datos a privacy@zoom.us.",
+    "notes_pl": "Wyślij wiadomość e-mail z prośbą o przesłanie kopii swoich danych na adres privacy@zoom.us."
 },
 {
     "name": "Spotify",
     "url": "https://www.spotify.com/us/account/privacy/",
     "difficulty": "easy",
     "notes_en": "You have to log into your Spotify account, go to 'Profile > Account > Privacy settings' and follow the steps at the bottom of the page.",
-    "notes_es": "Tienes que iniciar sesión en tu cuenta de Spotify, ir a 'Perfil > Cuenta > Ajustes de privacidad' y seguir los pasos al final de la página."
+    "notes_es": "Tienes que iniciar sesión en tu cuenta de Spotify, ir a 'Perfil > Cuenta > Ajustes de privacidad' y seguir los pasos al final de la página.",
+    "notes_pl": "Musisz zalogować się na swoje konto Spotify, przejść do 'Profil > Konto > Ustawienia prywatności' i postępować zgodnie z instrukcjami na dole strony."
 },
 {
     "name": "Tiktok",
@@ -364,19 +371,22 @@
     "difficulty": "medium",
     "notes_en": "Go to the form provided in the url above and fill it selecting the option 'Request information or an action regarding the account data'.",
     "notes_es": "Ve al formulario indicado en la dirección superior y rellénalo seleccionando la opción 'Solicitar información o una acción relativa a los datos de la cuenta'."
+    "notes_pl": "Przejdź do powyższego formularza i wypełnij go wybierając opcję 'Request information or action on account details'"
 },
 {
     "name": "Mozilla",
     "url": "https://www.mozilla.org/privacy/#contact",
     "difficulty": "medium",
     "notes_en": "Go to the url provided abobe and click on 'See here for Data Subject Access Requests' and fill a form or send an email to compliance@mozilla.com.",
-    "notes_es": "Entra en la dirección indicada arriba y haz click en 'Haz clic aquí para solicitar acceso a los datos personales' y rellena un formulario o envía un email a compliance@mozilla.com."
+    "notes_es": "Entra en la dirección indicada arriba y haz click en 'Haz clic aquí para solicitar acceso a los datos personales' y rellena un formulario o envía un email a compliance@mozilla.com.",
+    "notes_pl": "Wejdź na powyższy adres, kliknij na 'Click here to request access to personal data' i wypełnij formularz lub wyślij wiadomość e-mail na adres compliance@mozilla.com."
 },
 {
     "name": "Craigslist",
     "url": "https://www.craigslist.org/about/privacy.policy",
     "difficulty": "hard",
     "notes_en": "Send an email requesting a copy of your data to privacy@craigslist.org.",
-    "notes_es": "Envía un email pidiendo una copia de tus datos a privacy@craigslist.org."
+    "notes_es": "Envía un email pidiendo una copia de tus datos a privacy@craigslist.org.",
+    "notes_pl": "Wyślij wiadomość e-mail z prośbą o przesłanie kopii swoich danych na adres privacy@craigslist.org."
 }
 ]
