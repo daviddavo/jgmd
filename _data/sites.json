@@ -360,8 +360,8 @@
 {
     "name": "Spotify",
     "url": "https://www.spotify.com/us/account/privacy/",
-    "difficulty": "easy",
-    "notes_en": "You have to log into your Spotify account, go to 'Profile > Account > Privacy settings' and follow the steps at the bottom of the page.",
+    "difficulty": "hard",
+    "notes_en": "Log into your Spotify account, go to 'Profile > Account > Privacy settings' and follow the steps at the bottom of the page. For all data, ask support for 'technical log information and extended listening history'.",
     "notes_es": "Tienes que iniciar sesión en tu cuenta de Spotify, ir a 'Perfil > Cuenta > Ajustes de privacidad' y seguir los pasos al final de la página.",
     "notes_pl": "Musisz zalogować się na swoje konto Spotify, przejść do 'Profil > Konto > Ustawienia prywatności' i postępować zgodnie z instrukcjami na dole strony."
 },
