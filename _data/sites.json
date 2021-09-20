@@ -382,6 +382,19 @@
     "notes_pl": "Wejdź na powyższy adres, kliknij na 'Click here to request access to personal data' i wypełnij formularz lub wyślij wiadomość e-mail na adres compliance@mozilla.com."
 },
 {
+    "name": "Mailfence",                                                                                                                                                                                                                                              
+    "url": "https://kb.mailfence.com/kb/how-to-export-data-from-mailfence-account/",
+    "difficulty": "medium",
+    "notes_en": "Log in to your account -> Go to 'Settings'-> 'Account' -> 'Back-up'.",
+    "notes_fr": "Connectez-vous à votre compte -> Allez dans les 'Paramètres' -> 'Compte' -> 'Sauvegardes'.",
+    "notes_nl": "Log in op jouw account  -> Ga naar 'Instellingen' -> 'Account' -> 'Back-up'.",
+    "notes_pt": "Faça login na sua conta -> Vá para as 'Configurações' -> 'Conta' -> 'Cópia de segurança'.",
+    "notes_es": "Acceda a su cuenta -> Vaya a 'Ajustes' -> 'Cuenta' -> 'Copias de seguridad'.",
+    "notes_it": "Accedi al tuo account -> Vai alle 'Parametri' -> 'Account' -> 'Back up'.",
+    "notes_de": "Melde dich in deinem Konto an -> Gehe zu den 'Einstellungen' -> 'Benutzerkonto' -> 'Backup'.",
+    "notes_ru": "Войдите в свою учетную запись -> Перейти к 'настройкам' -> 'Аккаунт' -> 'Резервное копирование'."
+},
+{
     "name": "Craigslist",
     "url": "https://www.craigslist.org/about/privacy.policy",
     "difficulty": "hard",
