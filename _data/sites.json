@@ -246,6 +246,14 @@
     "notes_cz": "You have to contact with service support"
 },
 {
+    "name": "Pocket Casts",
+    "email": "support@pocketcasts.com",
+    "difficulty": "hard",
+    "notes": "You receive a .txt file composed of multiple csv files. Podcast UUIDs can be decoded with http://pca.st/private/<guid>",
+    "email_subject": "Data Export request",
+    "email_body": "Hi, please send me a Data Export of my account."
+    },
+{
     "name": "PornHub",
     "url": "https://pornhub.com/information/privacy",
     "difficulty": "medium",
