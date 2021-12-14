@@ -43,9 +43,17 @@ Tests are run via the "cibuild" script, and can be run via `./script/cibuild`
 
 ## Contributing
 
+### Translating
 You can translate the main text of the page by contributing on [Crowdin](https://crowdin.com/project/jgmd)
 If you want to help, do read our [contributing](CONTRIBUTING.md) guidelines.
 
+### Hosting
+This webpage is deployed on [ipfs](ipns://justgetmydata.com/), so you can just pin our website and the load will be distributed to your node too. This is helping too!
+
+```
+$ ipfs pin add /ipns/justgetmydata.com
+pinned QmfGFHursWoKmtuiKfWzfYMg3W1D8R5bbd4AFmxe65h6rV recursively
+```
 ## Misc
 
 Search functionality modified from [DevCenter.me](https://github.com/stevestreza/DevCenter.me).
