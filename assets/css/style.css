@@ -128,6 +128,10 @@ header h1 span {
     background: #AC4949;
 }
 
+.jwtd.button:hover {
+    background: #8a0963;
+}
+
 .search {
     background-color: #3399FF;
     display: none;
