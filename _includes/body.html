@@ -110,11 +110,11 @@
             {% assign x = full_code | split: "-" %}
             {% capture short_code %}{{x[0]}}{% endcapture %}
             {% if full_code == 'en-GB' %}
-                {% assign url = './' %}
+                {% assign url = '' %}
             {% else %}
                 {% assign url = short_code %}
             {% endif %}
-            <li class="{{ full_code }}"><a href="{{ url }}">{{ site.data.trans[full_code].name }}</a></li>
+            <li class="{{ full_code }}"><a href="/{{ url }}">{{ site.data.trans[full_code].name }}</a></li>
         {% endfor %}
     </ul>
 </div>
