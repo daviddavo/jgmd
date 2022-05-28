@@ -327,6 +327,12 @@
     "notes_es": "Entra en la dirección indicada arriba y rellena el formulario."
 },
 {
+    "name": "JetBrains",
+    "url": "https://account.jetbrains.com/profile-details/JetBrainsPersonalData.xlsx",
+    "difficulty": "easy",
+    "notes_en": "Requires Microsoft Excel or equivalent to open."
+},
+{
     "name": "Twitch",
     "url": "https://www.twitch.tv/p/legal/privacy-notice/",
     "difficulty": "hard",
