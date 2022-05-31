@@ -1,4 +1,10 @@
 exclude: [CONTRIBUTING.md, Gemfile, Gemfile.lock, LICENSE, README.md, script, vendor]
+plugins:
+  - jekyll-analytics
+jekyll_analytics:
+  Matomo:
+    url: matomo.ddavo.me
+    siteId: "2"
 collections:
   pages:
     output: true

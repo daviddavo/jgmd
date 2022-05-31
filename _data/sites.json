@@ -223,6 +223,12 @@
     "notes_cz": "Go to the url provided above, log-in with your account credentials and provide and e-mail to receive a link to your data"
 },
 {
+    "name": "Best Buy",
+    "url": "https://www.bestbuy.com/sentry/confirm/residency?context=ca&type=access",
+    "difficulty": "hard",
+    "notes_en": "Make sure not to skip signin to make the process faster."
+},
+{
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/w/api.php?action=query&meta=userinfo&uiprop=email%7Cregistrationdate%7Crights%7Cgroups%7Coptions%7Ceditcount%7Clatestcontrib",
     "url_es": "https://es.wikipedia.org/w/api.php?action=query&meta=userinfo&uiprop=email%7Cregistrationdate%7Crights%7Cgroups%7Coptions%7Ceditcount%7Clatestcontrib",
@@ -327,6 +333,12 @@
     "notes_es": "Entra en la dirección indicada arriba y rellena el formulario."
 },
 {
+    "name": "JetBrains",
+    "url": "https://account.jetbrains.com/profile-details/JetBrainsPersonalData.xlsx",
+    "difficulty": "easy",
+    "notes_en": "Requires Microsoft Excel or equivalent to open."
+},
+{
     "name": "Twitch",
     "url": "https://www.twitch.tv/p/legal/privacy-notice/",
     "difficulty": "hard",
@@ -334,12 +346,12 @@
     "notes_es": "Envía un email a privacy@twitch.tv incluyendo tu nombre, dirección, número de telefono y otros datos relevantes."
 },
 {
-    "name": "Spacehey",
+    "name": "SpaceHey",
     "url": "https://spacehey.com/settings",
-    "difficulty": "medium",
-    "notes_en": "Go to the URL provided above and click on, 'Please send us an email'.",
-    "notes_es": "Entra en la dirección indicada arriba y haz click en, 'Please send us an email'.",
-    "notes_pl": "Wpisz powyższy adres i kliknij 'Wyślij nam wiadomość e-mail'."
+    "difficulty": "easy",
+    "notes_en": "Go to the URL provided above and click on 'Export your Account Data'.",
+    "notes_es": "Vaya a la URL proporcionada arriba y haga clic en 'Export your Account Data'.",
+    "notes_pl": "Przejdź do adresu URL podanego powyżej i kliknij 'Export your Account Data'."
 },
 {
     "name": "Badoo",
