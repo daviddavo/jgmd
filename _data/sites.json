@@ -223,6 +223,12 @@
     "notes_cz": "Go to the url provided above, log-in with your account credentials and provide and e-mail to receive a link to your data"
 },
 {
+    "name": "Best Buy",
+    "url": "https://www.bestbuy.com/sentry/confirm/residency?context=ca&type=access",
+    "difficulty": "hard",
+    "notes_en": "Make sure not to skip signin to make the process faster."
+},
+{
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/w/api.php?action=query&meta=userinfo&uiprop=email%7Cregistrationdate%7Crights%7Cgroups%7Coptions%7Ceditcount%7Clatestcontrib",
     "url_es": "https://es.wikipedia.org/w/api.php?action=query&meta=userinfo&uiprop=email%7Cregistrationdate%7Crights%7Cgroups%7Coptions%7Ceditcount%7Clatestcontrib",
@@ -327,6 +333,12 @@
     "notes_es": "Entra en la dirección indicada arriba y rellena el formulario."
 },
 {
+    "name": "JetBrains",
+    "url": "https://account.jetbrains.com/profile-details/JetBrainsPersonalData.xlsx",
+    "difficulty": "easy",
+    "notes_en": "Requires Microsoft Excel or equivalent to open."
+},
+{
     "name": "Twitch",
     "url": "https://www.twitch.tv/p/legal/privacy-notice/",
     "difficulty": "hard",
@@ -356,6 +368,12 @@
     "notes_en": "Send an email requesting a copy of your data to privacy@zoom.us.",
     "notes_es": "Envía un email pidiendo una copia de tus datos a privacy@zoom.us.",
     "notes_pl": "Wyślij wiadomość e-mail z prośbą o przesłanie kopii swoich danych na adres privacy@zoom.us."
+},
+{
+    "name": "Samsung",
+    "url": "https://privacy.samsung.com/mydata/downloads/request",
+    "difficulty": "medium",
+    "notes": "Select the services you want to retrieve your data for, or click the first one and click the \"All\" button at the bottom of the screen."
 },
 {
     "name": "Spotify",
