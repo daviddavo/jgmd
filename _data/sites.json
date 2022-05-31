@@ -223,6 +223,12 @@
     "notes_cz": "Go to the url provided above, log-in with your account credentials and provide and e-mail to receive a link to your data"
 },
 {
+    "name": "Best Buy",
+    "url": "https://www.bestbuy.com/sentry/confirm/residency?context=ca&type=access",
+    "difficulty": "hard",
+    "notes_en": "Make sure not to skip signin to make the process faster."
+},
+{
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/w/api.php?action=query&meta=userinfo&uiprop=email%7Cregistrationdate%7Crights%7Cgroups%7Coptions%7Ceditcount%7Clatestcontrib",
     "url_es": "https://es.wikipedia.org/w/api.php?action=query&meta=userinfo&uiprop=email%7Cregistrationdate%7Crights%7Cgroups%7Coptions%7Ceditcount%7Clatestcontrib",
