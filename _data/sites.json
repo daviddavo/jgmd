@@ -370,6 +370,12 @@
     "notes_pl": "Wyślij wiadomość e-mail z prośbą o przesłanie kopii swoich danych na adres privacy@zoom.us."
 },
 {
+    "name": "Samsung",
+    "url": "https://privacy.samsung.com/mydata/downloads/request",
+    "difficulty": "medium",
+    "notes": "Select the services you want to retrieve your data for, or click the first one and click the \"All\" button at the bottom of the screen."
+},
+{
     "name": "Spotify",
     "url": "https://www.spotify.com/us/account/privacy/",
     "difficulty": "hard",
@@ -420,5 +426,5 @@
     "difficulty": "easy",
     "notes_en": "Scroll down to 'Data Download' and click red button: 'Request Download'",
     "notes_pl": "Zjedź w dół do 'Data Download' i kliknij czerwony przycisk: 'Request Download'"
-}
+} 
 ]
