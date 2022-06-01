@@ -432,5 +432,11 @@
     "url": "https://privacy.patreon.com/?action=ACCESS&modal=take-control",
     "difficulty": "easy",
     "notes_en": "Click the link and confirm the request. The email with the data is usually sent within a few minutes."
+},
+{
+    "name": "Fitbit",
+    "url": "https://www.fitbit.com/settings/data/export",
+    "difficulty": "medium",
+    "notes_en": "Click the link sent to your email if you requested a full archive."
 }
 ]
