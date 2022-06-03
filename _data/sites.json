@@ -434,6 +434,12 @@
     "notes_en": "Click the link and confirm the request. The email with the data is usually sent within a few minutes."
 },
 {
+    "name": "Uber",
+    "url": "https://myprivacy.uber.com/privacy/exploreyourdata/download",
+    "difficulty": "medium",
+    "notes_en": "Details of the export will be sent via email when ready."
+},
+{
     "name": "Fitbit",
     "url": "https://www.fitbit.com/settings/data/export",
     "difficulty": "medium",
