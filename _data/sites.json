@@ -438,5 +438,11 @@
     "url": "https://www.fitbit.com/settings/data/export",
     "difficulty": "medium",
     "notes_en": "Click the link sent to your email if you requested a full archive."
+},
+{
+    "name": "Linode",
+    "url": "https://www.linode.com/legal-dpr/",
+    "difficulty": "hard",
+    "notes_en": "Check the boxes under the \"Personal Data Disclosure\" section"
 }
 ]
