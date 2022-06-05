@@ -450,5 +450,11 @@
     "url": "https://www.linode.com/legal-dpr/",
     "difficulty": "hard",
     "notes_en": "Check the boxes under the \"Personal Data Disclosure\" section"
+},
+{
+    "name": "Reddit",
+    "url": "https://www.reddit.com/settings/data-request",
+    "difficulty": "easy",
+    "notes_en": "Requires Microsoft Excel or equivalent to open the export files. You must use the <a href='https://www.reddithelp.com/hc/en-us/requests/new?ticket_form_id=360001370251'>ticket form</a> if you cannot log in to your account."
 }
 ]
