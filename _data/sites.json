@@ -467,5 +467,11 @@
     "url": "https://zyngasupport.helpshift.com/hc/en/29-zyngagames-com/faq/12820-how-do-i-download-or-delete-my-data/?s=legal-privacy-security&f=how-do-i-download-or-delete-my-data",
     "difficulty": "easy",
     "notes_en": "Select the game you want to request your data from. Enter your Player ID and PIN for that game. Click on 'Request a Copy of Your Account Data' to submit your request."
+},
+{
+    "name": "Nintendo",
+    "url": "https://privacyportal-cdn.onetrust.com/dsarwebform/50b45312-ab08-436b-adc7-79156d8394f7/e0b5b569-7fb1-43c9-befc-0e789ed712fb.html",
+    "difficulty": "hard",
+    "notes_en": "Select information request under request type. Request can also be completed via telephone (+1 855-822-9548)."
 }
 ]
