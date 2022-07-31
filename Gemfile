@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
-gem "ffi", ">= 1.13.1 "
-gem "jekyll", "= 4.1.1"
+gem "ffi", ">= 1.15.5"
+gem "jekyll", "= 4.2.2"
 gem "html-proofer", ">= 3.16.0"
 
 gem "webrick", "~> 1.7"
