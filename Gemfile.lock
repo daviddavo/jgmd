@@ -80,7 +80,10 @@ GEM
     zeitwerk (2.6.0)
 
 PLATFORMS
+  ruby
   x64-mingw-ucrt
+  x64-mingw32
+  x86_64-linux
 
 DEPENDENCIES
   ffi (>= 1.15.5)
