@@ -42,4 +42,3 @@ jobs:
         ruby-version: 3.1.2
         bundler-cache: true
     - run: script/check_files_formatting.sh
-

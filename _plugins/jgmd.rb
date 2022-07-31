@@ -5,7 +5,7 @@ module JustGetMyData
             site.data['trans'].keys.each do |lang|
                 # First /lang/index.html
                 site.pages << LanguagePage.new(site, site.dest, '', lang)
-            end                
+            end
         end
     end
 
