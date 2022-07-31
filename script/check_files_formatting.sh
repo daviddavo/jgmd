@@ -7,6 +7,7 @@ set -e # halt script on error
 mapfile -t editorconfigargs < <(
     find . \
         -type 'f' \
+        ! -name '*.pdf' \
         ! -name '*.png' \
         ! -name '*.ico' \
         ! -name 'LICENSE' \
