@@ -95,7 +95,7 @@ end
 
 def validate_localized_notes(key)
     key.keys.each do |entry_key|
-        if entry_key.start_with?('notes_') && !SupportedLanguages.any? { |lang| entry_key.eql?("notes_#{lang}") }
+        if entry_key.start_with?('notes_') && !SupportedLanguages.any? { |lang| entry_key.eql?("notes_#{lang.sub!(/-\w+/, "")}") }
             STDERR.puts "Entry '#{key['name']}' has unrecognized notes code: "\
                         "'#{entry_key}'.\n"\
                         "Use one of the supported languages:\n"\
