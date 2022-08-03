@@ -40,7 +40,7 @@
 
     <p>
 <!--         <a href="#extension" class="button banner">{{ site.data.trans[page.lang].extension }}</a> -->
-        {% assign sl = page.lang | split: "-" %}   
+        {% assign sl = page.lang | split: "-" %}
         <a class="button jdm" href="https://justdeleteme.xyz{%if page.lang != 'en-GB'%}/{{sl[0]}}{% endif %} "> {{site.data.trans[page.lang].link_jdm }}</a>
         <a class="button" href="https://github.com/justgetmydata/jgmd">{{site.data.trans[page.lang].contribute}}</a>
         <a class="button" href="https://crowdin.com/project/jgmd">{{site.data.trans[page.lang].translate}}</a>
