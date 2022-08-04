@@ -486,7 +486,7 @@
     {
         "name": "Wikipedia",
         "url": "https://en.wikipedia.org/w/api.php?action=query&meta=userinfo&uiprop=email%7Cregistrationdate%7Crights%7Cgroups%7Coptions%7Ceditcount%7Clatestcontrib",
-        "url_es": "https://es.wikipedia.org/w/api.php?action=query&meta=userinfo&uiprop=email%7Cregistrationdate%7Crights%7Cgroups%7Coptions%7Ceditcount%7Clatestcontrib",
+        "url_es-ES": "https://es.wikipedia.org/w/api.php?action=query&meta=userinfo&uiprop=email%7Cregistrationdate%7Crights%7Cgroups%7Coptions%7Ceditcount%7Clatestcontrib",
         "difficulty": "easy",
         "notes": "Everything is accesible through an API link. For other wikipedias, you can change the language changing the url.",
         "notes_es-ES": "Toda tu información está accesible la API. Puedes cambiar el idioma de Wikipedia cambiando la url."
