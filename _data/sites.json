@@ -175,6 +175,15 @@
     },
 
     {
+        "name": "Gettr",
+        "url": "https://gettr.com/privacy",
+        "difficulty": "hard",
+        "notes": "According with item 11.IV, you have to send an e-mail to privacyrights@gettr.com. And even sending the e-mail, they may refuse the request and not send the data.",
+        "notes_pt-BR": "De acordo com o item 11.IV, você tem de enviar um e-mail para privacyrights@gettr.com, solicitando os dados. E mesmo enviando o e-mail, ele podem recusar o pedido e não te enviar os dados.",
+        "notes_pt-PT": "De acordo com o item 11.IV, você tem de enviar um e-mail para privacyrights@gettr.com, solicitando os dados. E mesmo enviando o e-mail, ele podem recusar o pedido e não te enviar os dados."
+    },
+
+    {
         "name": "GitHub",
         "meta": "popular",
         "url": "https://github.com/settings/admin",
