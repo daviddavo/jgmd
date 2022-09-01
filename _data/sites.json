@@ -234,7 +234,7 @@
         "difficulty": "easy",
         "notes": "Requires Microsoft Excel or equivalent to open."
     },
-    
+
     {
         "name": "Kwai",
         "url": "https://www.kwai.com/legal?type=1",
@@ -303,6 +303,7 @@
 
     {
         "name": "Netflix",
+        "meta": "popular",
         "url": "https://www.netflix.com/",
         "difficulty": "medium",
         "notes": "Go to https://www.netflix.com/account/getmyinfo and follow the instructions.",
@@ -414,6 +415,7 @@
 
     {
         "name": "Tiktok",
+        "meta": "popular",
         "url": "https://www.tiktok.com/legal/report/privacy",
         "difficulty": "medium",
         "notes": "Go to the form provided in the url above and fill it selecting the option 'Request information or an action regarding the account data'.",
