@@ -234,6 +234,15 @@
         "difficulty": "easy",
         "notes": "Requires Microsoft Excel or equivalent to open."
     },
+    
+    {
+        "name": "Kwai",
+        "url": "https://www.kwai.com/legal?type=1",
+        "difficulty": "hard",
+        "notes": "According to item 12, you have to send an e-mail to privacy@kwai.com, with your Kwai ID user to request your data.",
+        "notes_pt-BR": "De acordo com o item 12, você tem de enviar um e-mail para privacy@kwai.com, com o seu Kwai ID, para ter acesso aos dados.".
+        "notes_pt-PT": "De acordo com o item 12, você tem de enviar um e-mail para privacy@kwai.com, com o seu Kwai ID, para ter acesso aos dados."
+    },
 
     {
         "name": "Linkedin",
@@ -294,6 +303,7 @@
 
     {
         "name": "Netflix",
+        "meta": "popular",
         "url": "https://www.netflix.com/",
         "difficulty": "medium",
         "notes": "Go to https://www.netflix.com/account/getmyinfo and follow the instructions.",
@@ -405,6 +415,7 @@
 
     {
         "name": "Tiktok",
+        "meta": "popular",
         "url": "https://www.tiktok.com/legal/report/privacy",
         "difficulty": "medium",
         "notes": "Go to the form provided in the url above and fill it selecting the option 'Request information or an action regarding the account data'.",
