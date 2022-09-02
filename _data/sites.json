@@ -328,6 +328,15 @@
     },
 
     {
+        "name": "Norton",
+        "url": "https://privacyportal.onetrust.com/webform/25b84167-55d3-4099-84e2-c9e08ec67d54/4d9f34ca-cc1d-4578-9590-35834c92f17b",
+        "difficulty": "easy",
+        "notes": "Click the link above and fill the form to confirm the request.",
+        "notes_pt-BR": "Clique no link acima e preencha o formulário para confirmar a solicitação.",
+        "notes_pt-PT": "Clique no link acima e preencha o formulário para confirmar a solicitação."
+    },
+
+    {
         "name": "Patreon",
         "url": "https://privacy.patreon.com/?action=ACCESS&modal=take-control",
         "difficulty": "easy",
