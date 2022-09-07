@@ -486,6 +486,15 @@
     },
 
     {
+        "name": "UOL",
+        "url": "https://sac.uol.com.br/ajuda/content/como-solicitar-o-levantamento-dos-meus-dados-cadastrados-no-uol",
+        "difficulty": "easy",
+        "notes": "Just click in \"Clique aqui\" and click in \"Solicitar envio de dados\". An email is sent immediately.",
+        "notes_pt-BR": "Basta clicar em \"Clique aqui\" e depois em \"Solicitar envio de dados\". Um e-mail é enviado na hora.",
+        "notes_pt-PT": "Basta clicar em \"Clique aqui\" e depois em \"Solicitar envio de dados\". Um e-mail é enviado na hora.",
+    },
+
+    {
         "name": "WhatsApp",
         "meta": "popular",
         "url": "https://www.whatsapp.com/",
