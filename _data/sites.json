@@ -279,6 +279,12 @@
     },
 
     {
+        "name": "Lyft",
+        "url": "https://www.lyft.com/privacy/data",
+        "difficulty": "easy"
+    },
+
+    {
         "name": "Mailfence",
         "url": "https://kb.mailfence.com/kb/how-to-export-data-from-mailfence-account/",
         "difficulty": "medium",
