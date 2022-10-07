@@ -281,7 +281,8 @@
     {
         "name": "Lyft",
         "url": "https://www.lyft.com/privacy/data",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "notes": "Go to provided URL -> Log in (if prompted) -> Click the 'Start' button under 'Download Data'."
     },
 
     {
