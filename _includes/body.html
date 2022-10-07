@@ -31,6 +31,8 @@
                         {{ site.data.trans[page.lang].difficulty_medium }}
                     {% elsif entry.difficulty == 'hard' %}
                         {{ site.data.trans[page.lang].difficulty_hard }}
+                    {% elsif entry.difficulty == 'limited' %}
+                        {{ site.data.trans[page.lang].difficulty_limited }}
                     {% elsif entry.difficulty == 'impossible' %}
                         {{ site.data.trans[page.lang].difficulty_impossible }}
                     {% endif %}
@@ -45,7 +47,7 @@
                             {{ entry.notes }}
                         {% endif %}
                         {% if entry.email %}
-                            <br><a href="mailto:{{ entry.email }}?Subject={% if entry.email_subject %}{{ entry.email_subject | replace: ' ', '%20' }}{% else %}Account%20Deletion%20Request{% endif %}&body={% if entry.email_body %}{{ entry.email_body | replace: ' ', '%20' }}{% else %}Please%20delete%20my%20account,%20my%20username%20is%20 XXXXXX{% endif %}">{{ site.data.trans[page.lang].sendmail }} &raquo;</a>
+                            <br><a href="mailto:{{ entry.email }}?Subject={% if entry.email_subject %}{{ entry.email_subject | replace: ' ', '%20' }}{% else %}Data%20Access%20Request{% endif %}&body={% if entry.email_body %}{{ entry.email_body | replace: ' ', '%20' }}{% else %}Please%20send%20me%20a%20copy%20of%my%20personal%20data,%20my%20username%20is%20XXXXXX{% endif %}">{{ site.data.trans[page.lang].sendmail }} &raquo;</a>
                         {% endif %}
                     </div>
                     <a href="#" class="tooltip-toggle contains-info">
@@ -74,6 +76,7 @@
                 <li class="easy"><span class="difficulty">{{ site.data.trans[page.lang].difficulty_easy|safe }}</span> - {{ site.data.trans[page.lang].guideeasy|safe }}</li>
                 <li class="medium"><span class="difficulty">{{ site.data.trans[page.lang].difficulty_medium|safe }}</span> - {{ site.data.trans[page.lang].guidemedium|safe }}</li>
                 <li class="hard"><span class="difficulty">{{ site.data.trans[page.lang].difficulty_hard|safe }}</span> - {{ site.data.trans[page.lang].guidehard|safe }}</li>
+                <li class="limited"><span class="difficulty">{{ site.data.trans[page.lang].difficulty_limited|safe }}</span> - {{ site.data.trans[page.lang].guidelimited|safe }}</li>
                 <li class="impossible"><span class="difficulty">{{ site.data.trans[page.lang].difficulty_impossible|safe }}</span> - {{ site.data.trans[page.lang].guideimpossible|safe }}</li>
             </ul>
         </div>
@@ -94,6 +97,7 @@
                 <li><span class="dot-wrapper"><span class="dot easy"></span></span> - {{ site.data.trans[page.lang].guideeasy|safe }}</li>
                 <li><span class="dot-wrapper"><span class="dot medium"></span></span> -  {{ site.data.trans[page.lang].guidemedium|safe }}</li>
                 <li><span class="dot-wrapper"><span class="dot hard"></span></span> - {{ site.data.trans[page.lang].guidehard|safe }}</li>
+                <li><span class="dot-wrapper"><span class="dot limited"></span></span> - {{ site.data.trans[page.lang].guidelimited|safe }}</li>
                 <li><span class="dot-wrapper"><span class="dot impossible"></span></span> - {{ site.data.trans[page.lang].guideimpossible|safe }}</li>
             </ul>
         </div>
@@ -134,7 +138,7 @@
 <div id="difficulty-dropdown" class="dropdown dropdown-tip">
     <ul class="dropdown-menu">
         <span class="diff-sort">
-            {% assign difficulties = 'easy,medium,hard,impossible' | split:',' %}
+            {% assign difficulties = 'easy,medium,hard,limited,impossible' | split:',' %}
             {% for difficulty in difficulties %}
                 {% capture difficulty_value %}difficulty_{{ difficulty }}{% endcapture %}
                 <li><a href="#">{{ site.data.trans[page.lang][difficulty_value] }}</a></li>

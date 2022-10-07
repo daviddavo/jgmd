@@ -1,6 +1,6 @@
 ---
 name: Update Entry
-about: Tell us if you found out that the deletion process changed on a given website
+about: Tell us if you found out that the data access process changed on a given website
 title: ''
 labels: 'update_entry'
 assignees: ''
@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 # Backstory
-<!-- Tell a bit about how you noticed the deletion process changed -->
+<!-- Tell a bit about how you noticed the data access changed -->
 
 # Data
 <!-- Check the fields that changed below and provide the new value -->

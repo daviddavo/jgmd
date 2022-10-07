@@ -9,6 +9,7 @@ The sites, urls and additional notes are stored in `_data/sites.json`. If you wa
   - `easy`: Sites with a simple process such as a 'download account' button
   - `medium`: Sites that do allow account data requests but require you to perform additional steps
   - `hard`: Sites that require you to contact customer services or those that don't allow automatic or easy account data requests
+  - `limited`: Sites that require you to verify that you live in an area with privacy laws before accessing your data
   - `impossible`: For sites where it's basically impossible to totally request your account data, even if you contact them
 - `notes`: Notes will be shown when someone hovers on that service. Notes may include additional information you might need to request your account data or consequences of requesting your account data.
 - `notes_CODE`: _(optional)_ Use the language `CODE` as suffix of the `notes` field to provide language-specific instructions, shown on the respective language page.
