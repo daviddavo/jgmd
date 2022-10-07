@@ -22,6 +22,7 @@ This is a reference guide for translating, so that one can see where each key fi
 - `difficulty_easy`: Word for "easy" difficulty
 - `difficulty_medium`: Word for "medium" difficulty
 - `difficulty_hard`: Word for "hard" difficulty
+- `difficulty_limited`: Word for "limited availability" difficulty
 - `difficulty_impossible`: Word for "impossible" difficulty
 - `sendmail`: Text for hyperlink that opens up the new mail to be composed
 - `showinfo`: Text for button that shows notes of an entry
@@ -40,6 +41,7 @@ This is a reference guide for translating, so that one can see where each key fi
 - `guidemedium`: Short sentence explaining what "medium" means
 - `guidehard`: Short sentence explaining what "hard" means
 - `guideimpossible`: Short sentence explaining what "impossible" means
+- `guidelimited`: Short sentence explaining what "limited availability" means
 - `extension`: Title for the section explaining about the chrome extensions
 - `extensionguide`: Sentence introducing the extension section
 - `extensionp[1-2]` + `mikerogers`: First paragraph about the extension with credits to author. It's pieced together as "`extensionp1` `mikerogers` `extensionp2`"
