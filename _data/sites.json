@@ -388,6 +388,13 @@
     },
 
     {
+        "name": "Roblox",
+        "url": "https://www.roblox.com/support",
+        "difficulty": "limited",
+        "notes": "Select \"Right of Access\" under \"Data Privacy Requests\". Photo ID is required as proof of residency."
+    },
+
+    {
         "name": "Samsung",
         "url": "https://privacy.samsung.com/mydata/downloads/request",
         "difficulty": "medium",
