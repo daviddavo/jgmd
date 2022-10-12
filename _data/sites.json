@@ -527,6 +527,13 @@
     },
 
     {
+        "name": "USACO Guide",
+        "url": "https://usaco.guide/settings#user-data",
+        "difficulty": "easy",
+        "notes": "Click \"Export User Data\". The download will start immediately."
+    },
+
+    {
         "name": "WhatsApp",
         "meta": "popular",
         "url": "https://www.whatsapp.com/",
