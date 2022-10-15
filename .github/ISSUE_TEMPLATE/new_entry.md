@@ -28,4 +28,3 @@ assignees: ''
 - `email`: <!-- *(optional)* If you have to send an email to a company to access your data, add the email address here -->
 - `email_subject`: <!-- *(optional)* Set the subject for the email link. If unset, the default text is "Account Deletion Request" -->
 - `email_body`: <!-- *(optional)* Set the body for the email link. If unset, the default text is "Please delete my account, my username is XXXXXX" -->
-- `domains`: <!-- This is used by the [Chrome extension](https://github.com/jdm-contrib/justdelete.me-chrome-extension) -->

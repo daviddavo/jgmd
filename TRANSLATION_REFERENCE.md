@@ -1,6 +1,6 @@
 # Translation Reference
 
-This is a reference guide for translating, so that one can see where each key fits in the website.
+This is a reference guide for translating, so that one can see where each key fits in the website. You can also <a  href="https://crowdin.com/project/jgmd" target="_blank">translate on Crowdin</a>.
 
 ## Header
 
@@ -8,7 +8,6 @@ This is a reference guide for translating, so that one can see where each key fi
 - `name`: Language name
 - `tagline`: The slogan of the website
 - `about`: Button that skips to the end of the page until the credits
-- `extension`: Button that takes to the chrome extension
 - `contribute`: Button to go to the GitHub repository
 - `twitter`: Button to tweet about JDM
 
@@ -42,9 +41,4 @@ This is a reference guide for translating, so that one can see where each key fi
 - `guidehard`: Short sentence explaining what "hard" means
 - `guideimpossible`: Short sentence explaining what "impossible" means
 - `guidelimited`: Short sentence explaining what "limited availability" means
-- `extension`: Title for the section explaining about the chrome extensions
-- `extensionguide`: Sentence introducing the extension section
-- `extensionp[1-2]` + `mikerogers`: First paragraph about the extension with credits to author. It's pieced together as "`extensionp1` `mikerogers` `extensionp2`"
-- `extensionp3`: Explains what the Chrome extension does
-- `extensionp[4-6]`: Last paragraph showing how to install the extension. It is written as "`extensionp4` + `extensionp5` + `extensionp6`" where `extensionp5` is the text for the hyperlink of the Chrome Web Store.
 - `footercredits`: Text to introduce creators
