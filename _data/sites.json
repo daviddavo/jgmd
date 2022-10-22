@@ -449,9 +449,9 @@
         "name": "Telegram",
         "url": "https://t.me/gdprbot",
         "difficulty": "easy",
-        "notes": "The bots @gdprbot (https://t.me/gdprbot) and @lgpdbot (https://t.me/lgpdbot) in Telegram show us how to obtain our data in the app. The use of Telegram Desktop is needed in order to get the data. Once there, go to options, settings, advanced, export Telegram data, choose everything you want/need and export it in HTML or JSON format.",
-        "notes_es-ES": "Los bots @gdprbot (https://t.me/gdprbot) and @lgpdbot (https://t.me/lgpdbot) nos guía en el proceso de obtención de datos. Es necesario usar Telegram Desktop. Ve a \"Opciones\", \"Configuración\", \"Avanzado\" y en \"Exportar datos de Telegram\", puedes elegir los datos que necesites, en formato HTML o JSON.",
-        "notes_pt-BR": "Os bots @gdprbot (https://t.me/gdprbot) e @lgpdbot (https://t.me/lgpdbot) ajuda na obtenção dos dados pessoas. Em ambos os casos, é preciso usar o Telegram Desktop, em \"Opções\", \"Configuração\", \"Avançado\" e \"Exportar dados do Telegram\", pode escolher os dados que você quer/necessita, seja em formato HTML ou em formato JSON."
+        "notes": "The bots <a href=\"https://t.me/gdprbot\">@gdprbot</a> and <a href=\"https://t.me/lgpdbot\">@lgpdbot</a> in Telegram show us how to obtain our data in the app. The use of Telegram Desktop is needed in order to get the data. Once there, go to options, settings, advanced, export Telegram data, choose everything you want/need and export it in HTML or JSON format.",
+        "notes_es-ES": "Los bots <a href=\"https://t.me/gdprbot\">@gdprbot</a> and <a href=\"https://t.me/lgpdbot\">@lgpdbot</a> nos guía en el proceso de obtención de datos. Es necesario usar Telegram Desktop. Ve a \"Opciones\", \"Configuración\", \"Avanzado\" y en \"Exportar datos de Telegram\", puedes elegir los datos que necesites, en formato HTML o JSON.",
+        "notes_pt-BR": "Os bots <a href=\"https://t.me/gdprbot\">@gdprbot</a> e <a href=\"https://t.me/lgpdbot\">@lgpdbot</a> ajuda na obtenção dos dados pessoas. Em ambos os casos, é preciso usar o Telegram Desktop, em \"Opções\", \"Configuração\", \"Avançado\" e \"Exportar dados do Telegram\", pode escolher os dados que você quer/necessita, seja em formato HTML ou em formato JSON."
     },
 
     {
