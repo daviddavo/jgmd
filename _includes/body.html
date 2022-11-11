@@ -38,7 +38,7 @@
                     {% endif %}
                 </p>
 
-                {% capture lang_notes %}notes_{{ page.short }}{% endcapture %}
+                {% capture lang_notes %}notes_{{ page.lang }}{% endcapture %}
                 {% if entry.notes or entry[lang_notes] %}
                     <div class="tooltip-content">
                         {% if entry[lang_notes] %}
