@@ -166,6 +166,14 @@
     },
 
     {
+        "name": "Freelancer",
+        "url": "https://www.freelancer.com/about/privacy?w=f&ngsw-bypass=",
+        "difficulty": "hard",
+        "notes": "Send an email requesting a copy of your data to privacy-officer@freelancer.com.",
+        "email": "privacy-officer@freelancer.com"
+    },
+
+    {
         "name": "GearBest",
         "url": "https://www.gearbest.com/",
         "difficulty": "hard",
