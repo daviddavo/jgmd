@@ -1,6 +1,6 @@
 # Translation Reference
 
-This is a reference guide for translating, so that one can see where each key fits in the website. You can also <a  href="https://crowdin.com/project/jgmd" target="_blank">translate on Crowdin</a>.
+This is a reference guide for translating, so that one can see where each key fits in the website. You can also [translate on Crowdin](https://crowdin.com/project/jgmd).
 
 ## Header
 
