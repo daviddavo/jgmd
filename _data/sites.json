@@ -166,12 +166,18 @@
     },
 
     {
+        "name": "Freelancer",
+        "url": "https://www.freelancer.com/about/privacy?w=f&ngsw-bypass=",
+        "difficulty": "hard",
+        "notes": "Send an email requesting a copy of your data to privacy-officer@freelancer.com.",
+        "email": "privacy-officer@freelancer.com"
+    },
+
+    {
         "name": "GearBest",
         "url": "https://www.gearbest.com/",
         "difficulty": "hard",
-        "notes": "You may send us an e-mail to support@gearbest.com to exercise your rights. We will respond to your request in a reasonable timeframe. We will take all reasonable steps to ensure that your personal data is correct and up to date.",
-        "notes_es-ES": "You may send us an e-mail to support@gearbest.com to exercise your rights. We will respond to your request in a reasonable timeframe. We will take all reasonable steps to ensure that your personal data is correct and up to date.",
-        "notes_cs-CZ": "You may send us an e-mail to support@gearbest.com to exercise your rights. We will respond to your request in a reasonable timeframe. We will take all reasonable steps to ensure that your personal data is correct and up to date."
+        "notes": "You may send us an e-mail to support@gearbest.com to exercise your rights. We will respond to your request in a reasonable timeframe. We will take all reasonable steps to ensure that your personal data is correct and up to date."
     },
 
     {
@@ -420,9 +426,9 @@
 
     {
         "name": "Spotify",
-        "url": "https://www.spotify.com/us/account/privacy/",
-        "difficulty": "hard",
-        "notes": "Log into your Spotify account, go to 'Profile > Account > Privacy settings' and follow the steps at the bottom of the page. For all data, ask support for 'technical log information and extended listening history'.",
+        "url": "https://www.spotify.com/account/privacy/",
+        "difficulty": "medium",
+        "notes": "Log into your Spotify account, go to 'Profile > Account > Privacy settings' and follow the steps at the bottom of the page.",
         "notes_es-ES": "Tienes que iniciar sesión en tu cuenta de Spotify, ir a 'Perfil > Cuenta > Ajustes de privacidad' y seguir los pasos al final de la página.",
         "notes_pl-PL": "Musisz zalogować się na swoje konto Spotify, przejść do 'Profil > Konto > Ustawienia prywatności' i postępować zgodnie z instrukcjami na dole strony."
     },
