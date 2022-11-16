@@ -166,12 +166,18 @@
     },
 
     {
+        "name": "Freelancer",
+        "url": "https://www.freelancer.com/about/privacy?w=f&ngsw-bypass=",
+        "difficulty": "hard",
+        "notes": "Send an email requesting a copy of your data to privacy-officer@freelancer.com.",
+        "email": "privacy-officer@freelancer.com"
+    },
+
+    {
         "name": "GearBest",
         "url": "https://www.gearbest.com/",
         "difficulty": "hard",
-        "notes": "You may send us an e-mail to support@gearbest.com to exercise your rights. We will respond to your request in a reasonable timeframe. We will take all reasonable steps to ensure that your personal data is correct and up to date.",
-        "notes_es-ES": "You may send us an e-mail to support@gearbest.com to exercise your rights. We will respond to your request in a reasonable timeframe. We will take all reasonable steps to ensure that your personal data is correct and up to date.",
-        "notes_cs-CZ": "You may send us an e-mail to support@gearbest.com to exercise your rights. We will respond to your request in a reasonable timeframe. We will take all reasonable steps to ensure that your personal data is correct and up to date."
+        "notes": "You may send us an e-mail to support@gearbest.com to exercise your rights. We will respond to your request in a reasonable timeframe. We will take all reasonable steps to ensure that your personal data is correct and up to date."
     },
 
     {
@@ -321,9 +327,7 @@
         "name": "MSI",
         "url": "https://es.msi.com/",
         "difficulty": "hard",
-        "notes": "To exercise the right to request access to, or copies of, your Relevant Personal Data, together with information regarding the nature, Processing and disclosure of those Relevant Personal Data, or others of your rights, or to ask a question about these rights or any other provision of Privacy Policy, or about our Processing of your Personal Data, please use the contact [mailto:privacy-eu@msi.com](mailto:privacy-eu@msi.com).",
-        "notes_es-ES": "To exercise the right to request access to, or copies of, your Relevant Personal Data, together with information regarding the nature, Processing and disclosure of those Relevant Personal Data, or others of your rights, or to ask a question about these rights or any other provision of Privacy Policy, or about our Processing of your Personal Data, please use the contact [mailto:privacy-eu@msi.com](mailto:privacy-eu@msi.com).",
-        "notes_cs-CZ": "To exercise the right to request access to, or copies of, your Relevant Personal Data, together with information regarding the nature, Processing and disclosure of those Relevant Personal Data, or others of your rights, or to ask a question about these rights or any other provision of Privacy Policy, or about our Processing of your Personal Data, please use the contact [mailto:privacy-eu@msi.com](mailto:privacy-eu@msi.com)."
+        "notes": "To exercise the right to request access to, or copies of, your Relevant Personal Data, together with information regarding the nature, Processing and disclosure of those Relevant Personal Data, or others of your rights, or to ask a question about these rights or any other provision of Privacy Policy, or about our Processing of your Personal Data, please use the contact [privacy-eu@msi.com](mailto:privacy-eu@msi.com)."
     },
 
     {
@@ -420,9 +424,9 @@
 
     {
         "name": "Spotify",
-        "url": "https://www.spotify.com/us/account/privacy/",
-        "difficulty": "hard",
-        "notes": "Log into your Spotify account, go to 'Profile > Account > Privacy settings' and follow the steps at the bottom of the page. For all data, ask support for 'technical log information and extended listening history'.",
+        "url": "https://www.spotify.com/account/privacy/",
+        "difficulty": "medium",
+        "notes": "Log into your Spotify account, go to 'Profile > Account > Privacy settings' and follow the steps at the bottom of the page.",
         "notes_es-ES": "Tienes que iniciar sesión en tu cuenta de Spotify, ir a 'Perfil > Cuenta > Ajustes de privacidad' y seguir los pasos al final de la página.",
         "notes_pl-PL": "Musisz zalogować się na swoje konto Spotify, przejść do 'Profil > Konto > Ustawienia prywatności' i postępować zgodnie z instrukcjami na dole strony."
     },
@@ -449,9 +453,9 @@
         "name": "Telegram",
         "url": "https://t.me/gdprbot",
         "difficulty": "easy",
-        "notes": "The bots @gdprbot (https://t.me/gdprbot) and @lgpdbot (https://t.me/lgpdbot) in Telegram show us how to obtain our data in the app. The use of Telegram Desktop is needed in order to get the data. Once there, go to options, settings, advanced, export Telegram data, choose everything you want/need and export it in HTML or JSON format.",
-        "notes_es-ES": "Los bots @gdprbot (https://t.me/gdprbot) and @lgpdbot (https://t.me/lgpdbot) nos guía en el proceso de obtención de datos. Es necesario usar Telegram Desktop. Ve a \"Opciones\", \"Configuración\", \"Avanzado\" y en \"Exportar datos de Telegram\", puedes elegir los datos que necesites, en formato HTML o JSON.",
-        "notes_pt-BR": "Os bots @gdprbot (https://t.me/gdprbot) e @lgpdbot (https://t.me/lgpdbot) ajuda na obtenção dos dados pessoas. Em ambos os casos, é preciso usar o Telegram Desktop, em \"Opções\", \"Configuração\", \"Avançado\" e \"Exportar dados do Telegram\", pode escolher os dados que você quer/necessita, seja em formato HTML ou em formato JSON."
+        "notes": "The bots [@gdprbot](https://t.me/gdprbot) and [@lgpdbot](https://t.me/lgpdbot) in Telegram show us how to obtain our data in the app. The use of Telegram Desktop is needed in order to get the data. Once there, go to options, settings, advanced, export Telegram data, choose everything you want/need and export it in HTML or JSON format.",
+        "notes_es-ES": "Los bots [@gdprbot](https://t.me/gdprbot) and [@lgpdbot](https://t.me/lgpdbot) nos guía en el proceso de obtención de datos. Es necesario usar Telegram Desktop. Ve a \"Opciones\", \"Configuración\", \"Avanzado\" y en \"Exportar datos de Telegram\", puedes elegir los datos que necesites, en formato HTML o JSON.",
+        "notes_pt-BR": "Os bots [@gdprbot](https://t.me/gdprbot) e [@lgpdbot](https://t.me/lgpdbot) ajuda na obtenção dos dados pessoas. Em ambos os casos, é preciso usar o Telegram Desktop, em \"Opções\", \"Configuração\", \"Avançado\" e \"Exportar dados do Telegram\", pode escolher os dados que você quer/necessita, seja em formato HTML ou em formato JSON."
     },
 
     {
