@@ -59,9 +59,9 @@
         "name": "Badoo",
         "url": "https://badoo.com/feedback",
         "difficulty": "hard",
-        "notes": "Go to the url provided above and submit a request, picking 'General question' as subject, or send an email to DPO@corp.badoo.com.",
-        "notes_es-ES": "Entra en la dirección indicada arriba y envía una solicitud, selecionando como asunto 'Pregunta general', o envía un email a DPO@corp.badoo.com.",
-        "notes_pl-PL": "Wejdź na powyższy adres i wyślij zapytanie, wybierając jako temat 'Zapytanie ogólne', lub wyślij e-mail na adres DPO@corp.badoo.com."
+        "notes": "Go to the url provided above and submit a request, picking 'General question' as subject, or send an email to [DPOcorp.badoo.com](mailto:DPO@corp.badoo.com).",
+        "notes_es-ES": "Entra en la dirección indicada arriba y envía una solicitud, selecionando como asunto 'Pregunta general', o envía un email a [DPOcorp.badoo.com](mailto:DPO@corp.badoo.com).",
+        "notes_pl-PL": "Wejdź na powyższy adres i wyślij zapytanie, wybierając jako temat 'Zapytanie ogólne', lub wyślij e-mail na adres [DPOcorp.badoo.com](mailto:DPO@corp.badoo.com)."
     },
 
     {
@@ -111,9 +111,9 @@
         "name": "Craigslist",
         "url": "https://www.craigslist.org/about/privacy.policy",
         "difficulty": "hard",
-        "notes": "Send an email requesting a copy of your data to privacy@craigslist.org.",
-        "notes_es-ES": "Envía un email pidiendo una copia de tus datos a privacy@craigslist.org.",
-        "notes_pl-PL": "Wyślij wiadomość e-mail z prośbą o przesłanie kopii swoich danych na adres privacy@craigslist.org."
+        "notes": "Send an email requesting a copy of your data to [privacy@craigslist.org](mailto:privacy@craigslist.org).",
+        "notes_es-ES": "Envía un email pidiendo una copia de tus datos a [privacy@craigslist.org](mailto:privacy@craigslist.org).",
+        "notes_pl-PL": "Wyślij wiadomość e-mail z prośbą o przesłanie kopii swoich danych na adres [privacy@craigslist.org](mailto:privacy@craigslist.org)."
     },
 
     {
@@ -184,9 +184,9 @@
         "name": "Gettr",
         "url": "https://gettr.com/privacy",
         "difficulty": "hard",
-        "notes": "According with item 11.IV, you have to send an e-mail to privacyrights@gettr.com. And even sending the e-mail, they may refuse the request and not send the data.",
-        "notes_pt-BR": "De acordo com o item 11.IV, você tem de enviar um e-mail para privacyrights@gettr.com, solicitando os dados. E mesmo enviando o e-mail, ele podem recusar o pedido e não te enviar os dados.",
-        "notes_pt-PT": "De acordo com o item 11.IV, você tem de enviar um e-mail para privacyrights@gettr.com, solicitando os dados. E mesmo enviando o e-mail, ele podem recusar o pedido e não te enviar os dados."
+        "notes": "According with item 11.IV, you have to send an e-mail to [privacyrights@gettr.com](mailto:privacyrights@gettr.com). And even sending the e-mail, they may refuse the request and not send the data.",
+        "notes_pt-BR": "De acordo com o item 11.IV, você tem de enviar um e-mail para mailto:privacyrights@gettr.com, solicitando os dados. E mesmo enviando o e-mail, ele podem recusar o pedido e não te enviar os dados.",
+        "notes_pt-PT": "De acordo com o item 11.IV, você tem de enviar um e-mail para mailto:privacyrights@gettr.com, solicitando os dados. E mesmo enviando o e-mail, ele podem recusar o pedido e não te enviar os dados."
     },
 
     {
@@ -203,9 +203,9 @@
         "name": "GOG",
         "url": "https://support.gog.com/hc/en-us/requests/new?form=other&product=gog",
         "difficulty": "hard",
-        "notes": "Go to the url provided above and submit a request or send an email to privacy@gog.com.",
-        "notes_es-ES": "Entra en la dirección indicada arriba y envía una solicitud o envía un email a privacy@gog.com.",
-        "notes_cs-CZ": "Go to the url provided above and submit a request or send an email to privacy@gog.com."
+        "notes": "Go to the url provided above and submit a request or send an email to [privacy@gog.com](mailto:privacy@gog.com).",
+        "notes_es-ES": "Entra en la dirección indicada arriba y envía una solicitud o envía un email a [privacy@gog.com](mailto:privacy@gog.com).",
+        "notes_cs-CZ": "Go to the url provided above and submit a request or send an email to [privacy@gog.com](mailto:privacy@gog.com)."
     },
 
     {
@@ -254,9 +254,9 @@
         "name": "Kwai",
         "url": "https://www.kwai.com/legal?type=1",
         "difficulty": "hard",
-        "notes": "According to item 12, you have to send an e-mail to privacy@kwai.com, with your Kwai ID user to request your data.",
-        "notes_pt-BR": "De acordo com o item 12, você tem de enviar um e-mail para privacy@kwai.com, com o seu Kwai ID, para ter acesso aos dados.",
-        "notes_pt-PT": "De acordo com o item 12, você tem de enviar um e-mail para privacy@kwai.com, com o seu Kwai ID, para ter acesso aos dados."
+        "notes": "According to item 12, you have to send an e-mail to [privacy@kwai.com](mailto:privacy@kwai.com), with your Kwai ID user to request your data.",
+        "notes_pt-BR": "De acordo com o item 12, você tem de enviar um e-mail para [privacy@kwai.com](mailto:privacy@kwai.com), com o seu Kwai ID, para ter acesso aos dados.",
+        "notes_pt-PT": "De acordo com o item 12, você tem de enviar um e-mail para [privacy@kwai.com](mailto:privacy@kwai.com), com o seu Kwai ID, para ter acesso aos dados."
     },
 
     {
@@ -279,9 +279,9 @@
         "name": "Lolja",
         "url": "https://www.lolja.com.br/privacidade/",
         "difficulty": "hard",
-        "notes": "Send an email to sac@lolja.com.br with all relevant information (name, email address, etc).",
-        "notes_pt-BR": "Envie um e-mail para sac@lolja.com.br com todas as informações relevantes (nome, endereço de e-mail, etc).",
-        "notes_pt-PT": "Envie um e-mail para sac@lolja.com.br com todas as informações relevantes (nome, endereço de e-mail, etc)."
+        "notes": "Send an email to [sac@lolja.com.br](mailto:sac@lolja.com.br) with all relevant information (name, email address, etc).",
+        "notes_pt-BR": "Envie um e-mail para [sac@lolja.com.br](mailto:sac@lolja.com.br) com todas as informações relevantes (nome, endereço de e-mail, etc).",
+        "notes_pt-PT": "Envie um e-mail para [sac@lolja.com.br](mailto:sac@lolja.com.br) com todas as informações relevantes (nome, endereço de e-mail, etc)."
     },
 
     {
@@ -318,16 +318,16 @@
         "name": "Mozilla",
         "url": "https://www.mozilla.org/privacy/#contact",
         "difficulty": "medium",
-        "notes": "Go to the url provided abobe and click on 'See here for Data Subject Access Requests' and fill a form or send an email to compliance@mozilla.com.",
-        "notes_es-ES": "Entra en la dirección indicada arriba y haz click en 'Haz clic aquí para solicitar acceso a los datos personales' y rellena un formulario o envía un email a compliance@mozilla.com.",
-        "notes_pl-PL": "Wejdź na powyższy adres, kliknij na 'Click here to request access to personal data' i wypełnij formularz lub wyślij wiadomość e-mail na adres compliance@mozilla.com."
+        "notes": "Go to the url provided abobe and click on 'See here for Data Subject Access Requests' and fill a form or send an email to [compliance@mozilla.com](mailto:compliance@mozilla.com).",
+        "notes_es-ES": "Entra en la dirección indicada arriba y haz click en 'Haz clic aquí para solicitar acceso a los datos personales' y rellena un formulario o envía un email a [compliance@mozilla.com](mailto:compliance@mozilla.com).",
+        "notes_pl-PL": "Wejdź na powyższy adres, kliknij na 'Click here to request access to personal data' i wypełnij formularz lub wyślij wiadomość e-mail na adres [compliance@mozilla.com](mailto:compliance@mozilla.com)."
     },
 
     {
         "name": "MSI",
         "url": "https://es.msi.com/",
         "difficulty": "hard",
-        "notes": "To exercise the right to request access to, or copies of, your Relevant Personal Data, together with information regarding the nature, Processing and disclosure of those Relevant Personal Data, or others of your rights, or to ask a question about these rights or any other provision of Privacy Policy, or about our Processing of your Personal Data, please use the contact privacy-eu@msi.com."
+        "notes": "To exercise the right to request access to, or copies of, your Relevant Personal Data, together with information regarding the nature, Processing and disclosure of those Relevant Personal Data, or others of your rights, or to ask a question about these rights or any other provision of Privacy Policy, or about our Processing of your Personal Data, please use the contact [privacy-eu@msi.com](mailto:privacy-eu@msi.com)."
     },
 
     {
@@ -367,9 +367,9 @@
         "name": "PcComponentes",
         "url": "https://www.pccomponentes.com/",
         "difficulty": "hard",
-        "notes": "You will have to send a written request with your passport, or another identification document, to  Av. Europa Parcela 2-3, Pol. Ind. Las Salinas 30840 Alhama de Murcia. You can also request the data throught a e-mail to lopd@pccomponentes.com.",
-        "notes_es-ES": "Tienes que enviar una solicitud escrita con un documento identificativo a Av. Europa, Parcela 2-3, Pol. Ind. Las Salinas 30840 Alhama de Murcia. También puedes realizar la petición por e-mail a lopd@pccomponentes.com",
-        "notes_cs-CZ": "You will have to send a written request with your passport, or another identification document, to  Av. Europa Parcela 2-3, Pol. Ind. Las Salinas 30840 Alhama de Murcia. You can also request the data throught a e-mail to lopd@pccomponentes.com."
+        "notes": "You will have to send a written request with your passport, or another identification document, to  Av. Europa Parcela 2-3, Pol. Ind. Las Salinas 30840 Alhama de Murcia. You can also request the data throught a e-mail to [lopd@pccomponentes.com](mailto:lopd@pccomponentes.com).",
+        "notes_es-ES": "Tienes que enviar una solicitud escrita con un documento identificativo a Av. Europa, Parcela 2-3, Pol. Ind. Las Salinas 30840 Alhama de Murcia. También puedes realizar la petición por e-mail a [lopd@pccomponentes.com](mailto:lopd@pccomponentes.com)",
+        "notes_cs-CZ": "You will have to send a written request with your passport, or another identification document, to  Av. Europa Parcela 2-3, Pol. Ind. Las Salinas 30840 Alhama de Murcia. You can also request the data throught a e-mail to [lopd@pccomponentes.com](mailto:lopd@pccomponentes.com)."
     },
 
     {
@@ -386,7 +386,7 @@
         "meta": "popular",
         "url": "https://www.reddit.com/settings/data-request",
         "difficulty": "easy",
-        "notes": "Click on getting the data from a range of time or all. Then, wait for the private message in reddit, click in \"Download here\" and we are done. WARNING: you can only do a data request once every 30 days. You must use the <a href='https://www.reddithelp.com/hc/requests/new?ticket_form_id=360001370251'>ticket form</a> if you do not have access to your account.",
+        "notes": "Click on getting the data from a range of time or all. Then, wait for the private message in reddit, click in \"Download here\" and we are done. WARNING: you can only do a data request once every 30 days. You must use the [ticket form](https://www.reddithelp.com/hc/requests/new?ticket_form_id=360001370251) if you do not have access to your account.",
         "notes_es-ES": "Puedes obtener tus datos desde un intervalo de tiempo o todos los datos. Recibirás un mensaje privado con el que podrás descargar los datos.",
         "notes_pl-PL": "Kliknij na pobieranie danych z zakresu czasu lub wszystkich. Następnie poczekaj na prywatną wiadomość w reddit, kliknij w 'Pobierz tutaj' i gotowe. UWAGA: prośbę o dane można wykonać tylko raz na 30 dni."
     },
@@ -491,8 +491,8 @@
         "name": "Twitch",
         "url": "https://www.twitch.tv/p/legal/privacy-notice/",
         "difficulty": "hard",
-        "notes": "Send an email to privacy@twitch.tv and include your name, address, telephone number and all relevant background.",
-        "notes_es-ES": "Envía un email a privacy@twitch.tv incluyendo tu nombre, dirección, número de telefono y otros datos relevantes."
+        "notes": "Send an email to [privacy@twitch.tv](mailto:privacy@twitch.tv) and include your name, address, telephone number and all relevant background.",
+        "notes_es-ES": "Envía un email a [privacy@twitch.tv](mailto:privacy@twitch.tv) incluyendo tu nombre, dirección, número de telefono y otros datos relevantes."
     },
 
     {
@@ -551,8 +551,8 @@
         "name": "Wikimedia",
         "url": "https://www.mediawiki.org/wiki/API:Userinfo",
         "difficulty": "hard",
-        "notes": "Wikipedia's data access is easy, but other data from Wikimedia like donation history can only be retrieved through email to privacy@wikimedia.org",
-        "notes_es-ES": "Acceder a tu información de Wikipedia es fácil, pero acceder a otros datos de la fundación Wikimedia, como el historial de donaciones, sólo puede hacerse mediante correo a privacy@wikimedia.org"
+        "notes": "Wikipedia's data access is easy, but other data from Wikimedia like donation history can only be retrieved through email to [privacy@wikimedia.org](mailto:privacy@wikimedia.org)",
+        "notes_es-ES": "Acceder a tu información de Wikipedia es fácil, pero acceder a otros datos de la fundación Wikimedia, como el historial de donaciones, sólo puede hacerse mediante correo a [privacy@wikimedia.org](mailto:privacy@wikimedia.org)"
     },
 
     {
@@ -577,9 +577,9 @@
         "name": "Yoigo",
         "url": "https://www.yoigo.com/",
         "difficulty": "hard",
-        "notes": "You must to send e-mail to datospersonales@yoigo.com with your DNI scaned by two sides with a request for what right you want to exercise.",
-        "notes_es-ES": "You must to send e-mail to datospersonales@yoigo.com with your DNI scaned by two sides with a request for what right you want to exercise.",
-        "notes_cs-CZ": "You must to send e-mail to datospersonales@yoigo.com with your DNI scaned by two sides with a request for what right you want to exercise."
+        "notes": "You must to send e-mail to [datospersonales@yoigo.com](mailto:datospersonales@yoigo.com) with your DNI scaned by two sides with a request for what right you want to exercise.",
+        "notes_es-ES": "You must to send e-mail to [datospersonales@yoigo.com](mailto:datospersonales@yoigo.com) with your DNI scaned by two sides with a request for what right you want to exercise.",
+        "notes_cs-CZ": "You must to send e-mail to [datospersonales@yoigo.com](mailto:datospersonales@yoigo.com) with your DNI scaned by two sides with a request for what right you want to exercise."
     },
 
     {
@@ -594,9 +594,9 @@
         "name": "Zoom",
         "url": "https://zoom.us/gdpr",
         "difficulty": "hard",
-        "notes": "Send an email requesting a copy of your data to privacy@zoom.us.",
-        "notes_es-ES": "Envía un email pidiendo una copia de tus datos a privacy@zoom.us.",
-        "notes_pl-PL": "Wyślij wiadomość e-mail z prośbą o przesłanie kopii swoich danych na adres privacy@zoom.us."
+        "notes": "Send an email requesting a copy of your data to [privacy@zoom.us](mailto:privacy@zoom.us).",
+        "notes_es-ES": "Envía un email pidiendo una copia de tus datos a [privacy@zoom.us](mailto:privacy@zoom.us).",
+        "notes_pl-PL": "Wyślij wiadomość e-mail z prośbą o przesłanie kopii swoich danych na adres [privacy@zoom.us](mailto:privacy@zoom.us)."
     },
 
     {
