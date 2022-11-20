@@ -568,9 +568,7 @@
         "name": "Yahoo!",
         "url": "https://es.yahoo.com/",
         "difficulty": "easy",
-        "notes": "Go to https://yahoo.mydashboard.oath.com/ with a Yahoo! account, scroll down and select 'Request a download' and on the next page you select all the data you want to download, then add an email that you want notify when the download will be ready, this process may take about 30 days.",
-        "notes_es-ES": "Go to https://yahoo.mydashboard.oath.com/ with a Yahoo! account, scroll down and select 'Request a download' and on the next page you select all the data you want to download, then add an email that you want notify when the download will be ready, this process may take about 30 days.",
-        "notes_cs-CZ": "Go to https://yahoo.mydashboard.oath.com/ with a Yahoo! account, scroll down and select 'Request a download' and on the next page you select all the data you want to download, then add an email that you want notify when the download will be ready, this process may take about 30 days."
+        "notes": "Go to https://yahoo.mydashboard.oath.com/ with a Yahoo! account, scroll down and select 'Request a download' and on the next page you select all the data you want to download, then add an email that you want notify when the download will be ready, this process may take about 30 days."
     },
 
     {
