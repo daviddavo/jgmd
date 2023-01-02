@@ -99,6 +99,14 @@
     },
 
     {
+        "name": "Cloudflare",
+        "url": "https://www.cloudflare.com/privacypolicy/",
+        "difficulty": "hard",
+        "notes": "Cloudflare only accepts access requests via email.",
+        "email": "SAR@cloudflare.com"
+    },
+
+    {
         "name": "Coinbase",
         "url": "https://help.coinbase.com/en/pro/privacy-and-security/data-privacy/gdpr-how-to-access-information.html",
         "difficulty": "easy",
