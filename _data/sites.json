@@ -447,6 +447,13 @@
     },
 
     {
+        "name": "T-Mobile",
+        "url": "https://privacyportal-t-mobile.my.onetrust.com/webform/d4a925f0-4ebf-40ba-817b-bccc309e602f/7831d667-1ebc-4b1e-a941-e545cb0d0523",
+        "difficulty": "hard",
+        "notes": "The email and phone number you use on the form must be associated with your T-Mobile account. Proof of identity (Driver's License or Passport, New Hampshire residents cannot submit a Driver's License as proof) is required."
+    },
+
+    {
         "name": "Taobao",
         "url": "https://taobao.com",
         "difficulty": "hard",
