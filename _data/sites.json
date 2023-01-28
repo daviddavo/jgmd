@@ -447,6 +447,15 @@
     },
 
     {
+        "name": "Student Beans",
+        "url": "https://accounts.studentbeans.com/uk/info/privacy",
+        "difficulty": "hard",
+        "notes": "They require two different forms of identification (acceptable documents are Driver's License, Passport, and Student ID card) to process access requests, which are only accepted via email.",
+        "email": "infosec@studentbeans.com",
+        "email_body": "Please send me a copy of my personal data."
+    },
+
+    {
         "name": "Taobao",
         "url": "https://taobao.com",
         "difficulty": "hard",
