@@ -468,13 +468,6 @@
         "notes_es-ES": "En la mayoría de casos, puedes acceder y borrar tus datos personales en el Panel de Privacidad, pero puedes contactar con Valve si tienes problemas o preguntas mediante un ticket de soporte",
         "notes_cs-CZ": "In most cases, you can access, manage, or delete Personal Data in the Privacy Dashboard, but you may also contact Valve with questions or requests by summiting a support ticket."
     },
-
-    {
-        "name": "T-Mobile",
-        "url": "https://privacyportal-t-mobile.my.onetrust.com/webform/d4a925f0-4ebf-40ba-817b-bccc309e602f/7831d667-1ebc-4b1e-a941-e545cb0d0523",
-        "difficulty": "hard",
-        "notes": "The email and phone number you use on the form must be associated with your T-Mobile account. Proof of identity (Driver's License or Passport, New Hampshire residents cannot submit a Driver's License as proof) is required."
-    },
     
     {
         "name": "Student Beans",
@@ -483,6 +476,13 @@
         "notes": "They require two different forms of identification (acceptable documents are Driver's License, Passport, and Student ID card) to process access requests, which are only accepted via email.",
         "email": "infosec@studentbeans.com",
         "email_body": "Please send me a copy of my personal data."
+    },
+
+    {
+        "name": "T-Mobile",
+        "url": "https://privacyportal-t-mobile.my.onetrust.com/webform/d4a925f0-4ebf-40ba-817b-bccc309e602f/7831d667-1ebc-4b1e-a941-e545cb0d0523",
+        "difficulty": "hard",
+        "notes": "The email and phone number you use on the form must be associated with your T-Mobile account. Proof of identity (Driver's License or Passport, New Hampshire residents cannot submit a Driver's License as proof) is required."
     },
 
     {
