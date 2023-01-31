@@ -56,6 +56,13 @@
     },
 
     {
+        "name": "The Atlantic",
+        "url": "https://support.theatlantic.com/hc/requests/new",
+        "difficulty": "limited",
+        "notes": "Depending on where you live, you either have to select \"Submit a CPRA or VCDPA Data request\" or \"Submit an EEA Data Request\"."
+    },
+
+    {
         "name": "Badoo",
         "url": "https://badoo.com/feedback",
         "difficulty": "hard",
@@ -96,6 +103,14 @@
         "notes": "Go to the form provided in the url above and fill it selecting the option 'Right of access to personal data'.",
         "notes_es-ES": "Ve al formulario indicado en la dirección superior y rellénalo seleccionando la opción 'Right of access to personal data'.",
         "notes_cs-CZ": "Go to the form provided in the url above and fill it selecting the option 'Right of access to personal data'."
+    },
+
+    {
+        "name": "Cloudflare",
+        "url": "https://www.cloudflare.com/privacypolicy/",
+        "difficulty": "hard",
+        "notes": "Cloudflare only accepts access requests via email.",
+        "email": "SAR@cloudflare.com"
     },
 
     {
@@ -438,6 +453,14 @@
     },
 
     {
+        "name": "Starbucks",
+        "url": "https://www.starbucks.com/terms/privacy-policy/",
+        "difficulty": "hard",
+        "notes": "U.S. residents should use <a href='https://privacyportal-cdn.onetrust.com/dsarwebform/f9975fc5-c93f-4ff8-8169-846d8f6cd4d2/dd7e8c8f-839f-4be3-9ebc-060786941e92.html'>this form</a>, and Canadian residents should use <a href='https://privacyportal.onetrust.com/webform/f9975fc5-c93f-4ff8-8169-846d8f6cd4d2/2e24ae7b-8edf-411f-a11d-14a16ddaa413'>this form</a>. All others must send an email.",
+        "email": "privacy@starbucks.com"
+    },
+
+    {
         "name": "Steam",
         "url": "https://help.steampowered.com/en/accountdata",
         "difficulty": "medium",
@@ -451,6 +474,15 @@
         "url": "https://privacyportal-t-mobile.my.onetrust.com/webform/d4a925f0-4ebf-40ba-817b-bccc309e602f/7831d667-1ebc-4b1e-a941-e545cb0d0523",
         "difficulty": "hard",
         "notes": "The email and phone number you use on the form must be associated with your T-Mobile account. Proof of identity (Driver's License or Passport, New Hampshire residents cannot submit a Driver's License as proof) is required."
+    },
+    
+    {
+        "name": "Student Beans",
+        "url": "https://accounts.studentbeans.com/uk/info/privacy",
+        "difficulty": "hard",
+        "notes": "They require two different forms of identification (acceptable documents are Driver's License, Passport, and Student ID card) to process access requests, which are only accepted via email.",
+        "email": "infosec@studentbeans.com",
+        "email_body": "Please send me a copy of my personal data."
     },
 
     {
@@ -548,6 +580,13 @@
         "url": "https://usaco.guide/settings#user-data",
         "difficulty": "easy",
         "notes": "Click \"Export User Data\". The download will start immediately."
+    },
+
+    {
+        "name": "Walmart",
+        "url": "https://cpa-ui.walmart.com/affirmation?brandCode=WMT",
+        "difficulty": "hard",
+        "notes": "They only accept requests from California and Virginia, but they only check the state selected from the dropdown at the beginning."
     },
 
     {
