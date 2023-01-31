@@ -560,6 +560,13 @@
     },
 
     {
+        "name": "Walmart",
+        "url": "https://cpa-ui.walmart.com/affirmation?brandCode=WMT",
+        "difficulty": "hard",
+        "notes": "They only accept requests from California and Virginia, but they only check the state selected from the dropdown at the beginning."
+    },
+
+    {
         "name": "WhatsApp",
         "meta": "popular",
         "url": "https://www.whatsapp.com/",
