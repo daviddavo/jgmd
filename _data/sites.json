@@ -438,6 +438,14 @@
     },
 
     {
+        "name": "Starbucks",
+        "url": "https://www.starbucks.com/terms/privacy-policy/",
+        "difficulty": "hard",
+        "notes": "U.S. residents should use <a href='https://privacyportal-cdn.onetrust.com/dsarwebform/f9975fc5-c93f-4ff8-8169-846d8f6cd4d2/dd7e8c8f-839f-4be3-9ebc-060786941e92.html'>this form</a>, and Canadian residents should use <a href='https://privacyportal.onetrust.com/webform/f9975fc5-c93f-4ff8-8169-846d8f6cd4d2/2e24ae7b-8edf-411f-a11d-14a16ddaa413'>this form</a>. All others must send an email.",
+        "email": "privacy@starbucks.com"
+    },
+
+    {
         "name": "Steam",
         "url": "https://help.steampowered.com/en/accountdata",
         "difficulty": "medium",
