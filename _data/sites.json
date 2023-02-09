@@ -72,6 +72,13 @@
     },
 
     {
+        "name": "Battle.net / Blizzard",
+        "url": "https://www.battle.net/support/help/product/services/1327",
+        "difficulty": "medium",
+        "notes": "Select the information you want to download. You will need to enter an email verification code and a 2FA code if enabled."
+    },
+
+    {
         "name": "BBVA",
         "url": "https://web.bbva.es/index.html?v=12.3.22#areapersonal/menu/privacidadydatos",
         "difficulty": "easy",
