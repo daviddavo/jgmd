@@ -420,6 +420,13 @@
     },
 
     {
+        "name": "Roku",
+        "url": "https://privacy.roku.com/contact",
+        "difficulty": "hard",
+        "notes": "Select \"Data access request\" for the topic."
+    },
+
+    {
         "name": "Samsung",
         "url": "https://privacy.samsung.com/mydata/downloads/request",
         "difficulty": "medium",
