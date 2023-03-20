@@ -82,9 +82,9 @@
         "name": "BBVA",
         "url": "https://web.bbva.es/index.html?v=12.3.22#areapersonal/menu/privacidadydatos",
         "difficulty": "easy",
-        "notes": "On 'My profile' section, click on 'Security and privacy'. Go to 'Privacity and Data', click on 'Get Portability' and wait until it's done.",
-        "notes_es-ES": "On 'My profile' section, click on 'Security and privacy'. Go to 'Privacity and Data', click on 'Get Portability' and wait until it's done.",
-        "notes_cs-CZ": "On 'My profile' section, click on 'Security and privacy'. Go to 'Privacity and Data', click on 'Get Portability' and wait until it's done."
+        "notes": "On 'My profile' section, click on 'Security and privacy'. Go to 'Privacy and Data', click on 'Get Portability' and wait until it's done.",
+        "notes_es-ES": "On 'My profile' section, click on 'Security and privacy'. Go to 'Privacy and Data', click on 'Get Portability' and wait until it's done.",
+        "notes_cs-CZ": "On 'My profile' section, click on 'Security and privacy'. Go to 'Privacy and Data', click on 'Get Portability' and wait until it's done."
     },
 
     {
@@ -110,6 +110,13 @@
         "notes": "Go to the form provided in the url above and fill it selecting the option 'Right of access to personal data'.",
         "notes_es-ES": "Ve al formulario indicado en la dirección superior y rellénalo seleccionando la opción 'Right of access to personal data'.",
         "notes_cs-CZ": "Go to the form provided in the url above and fill it selecting the option 'Right of access to personal data'."
+    },
+
+    {
+        "name": "Burger King",
+        "url": "https://privacyportal-eu-cdn.onetrust.com/dsarwebform/7ae425dd-1c76-46b0-a1b4-2422a364fae3/draft/1d4481aa-204a-4cb5-a40a-82e4369d16b2.html",
+        "difficulty": "medium",
+        "notes": "U.S. and Canada residents can fill out the linked web form or email [privacy@rbi.com](mailto:privacy@rbi.com)"
     },
 
     {
@@ -408,6 +415,13 @@
     },
 
     {
+        "name": "Popeyes",
+        "url": "https://privacyportal-eu-cdn.onetrust.com/dsarwebform/7ae425dd-1c76-46b0-a1b4-2422a364fae3/draft/1d4481aa-204a-4cb5-a40a-82e4369d16b2.html",
+        "difficulty": "medium",
+        "notes": "U.S. and Canada residents can fill out the linked web form or email [privacy@rbi.com](mailto:privacy@rbi.com)"
+    },
+
+    {
         "name": "PornHub",
         "url": "https://pornhub.com/information/privacy",
         "difficulty": "medium",
@@ -532,6 +546,13 @@
         "notes": "Go to the form provided in the url above and fill it selecting the option 'Request information or an action regarding the account data'.",
         "notes_es-ES": "Ve al formulario indicado en la dirección superior y rellénalo seleccionando la opción 'Solicitar información o una acción relativa a los datos de la cuenta'.",
         "notes_pl-PL": "Przejdź do powyższego formularza i wypełnij go wybierając opcję 'Request information or action on account details'"
+    },
+
+    {
+        "name": "Tim Hortons",
+        "url": "https://privacyportal-eu-cdn.onetrust.com/dsarwebform/7ae425dd-1c76-46b0-a1b4-2422a364fae3/draft/1d4481aa-204a-4cb5-a40a-82e4369d16b2.html",
+        "difficulty": "medium",
+        "notes": "U.S. and Canada residents can fill out the linked web form or email [privacy@rbi.com](mailto:privacy@rbi.com)"
     },
 
     {
