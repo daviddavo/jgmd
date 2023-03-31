@@ -178,6 +178,13 @@
     },
 
     {
+        "name": "Epic Games",
+        "url": "https://www.epicgames.com/account/personal",
+        "difficulty": "easy",
+        "notes": "Go to your account settings, then click on 'Download Account Information' button to receive your data"
+    },
+
+    {
         "name": "Facebook",
         "meta": "popular",
         "url": "https://www.facebook.com/help/1701730696756992",
