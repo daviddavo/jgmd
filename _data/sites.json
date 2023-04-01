@@ -178,6 +178,13 @@
     },
 
     {
+        "name": "Electronic Arts",
+        "url": "https://myaccount.ea.com/cp-ui/downloaddata/index",
+        "difficulty": "easy",
+        "notes": "Go to your account settings, click on 'Your EA data', then hit the request button, and you should be able to download your data in a couple of hours"
+    },
+
+    {
         "name": "Epic Games",
         "url": "https://www.epicgames.com/account/personal",
         "difficulty": "easy",
