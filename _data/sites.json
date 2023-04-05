@@ -455,6 +455,13 @@
     },
 
     {
+        "name": "Riot Games",
+        "url": "https://support-leagueoflegends.riotgames.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "You would have to make a ticket requesting your data, which will show data recorded on League of Legends, Valorant and Runeterra accounts. After filing a ticket, you have to wait 30 days for an email to be sent to you containing a zipped file, which contains all your data."
+    },
+
+    {
         "name": "Roblox",
         "url": "https://www.roblox.com/support",
         "difficulty": "limited",
