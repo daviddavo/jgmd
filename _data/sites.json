@@ -621,6 +621,13 @@
     },
 
     {
+        "name": "Ubisoft",
+        "url": "https://account.ubisoft.com/en-US/privacy-settings",
+        "difficulty": "medium",
+        "notes": "Scroll down to the bottom of the page and request your data. They will send an email to you once your data download is ready. Emails take up to 24 hours to be sent."
+    },
+
+    {
         "name": "Universidad Complutense de Madrid",
         "url": "https://www.ucm.es/como-ejercer-los-derechos",
         "difficulty": "hard",
