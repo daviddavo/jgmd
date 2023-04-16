@@ -185,6 +185,13 @@
     },
 
     {
+        "name": "Engadget",
+        "url": "https://engadget.mydashboard.oath.com/#section-manage",
+        "difficulty": "medium",
+        "notes": "Scroll down to the bottom of page, and you should see an option to donwload your data. From there, you can select what types of data you want to download, and then request to download your data. It can take up to 30 days for Engadget to prepare your data. You can download in your account data in your account settings."
+    },
+
+    {
         "name": "Epic Games",
         "url": "https://www.epicgames.com/account/personal",
         "difficulty": "easy",
