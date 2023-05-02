@@ -9,6 +9,13 @@
     },
 
     {
+        "name": "2K Games",
+        "url": "https://support.2k.com/hc/en-us/articles/360022982514",
+        "difficulty": "hard",
+        "notes": "Go to the linked website and submit a request to download your account data."
+    },
+
+    {
         "name": "Adobe",
         "url": "https://www.adobe.com/privacy/privacy-contact.html#form",
         "difficulty": "hard",
