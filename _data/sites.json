@@ -427,6 +427,16 @@
     },
 
     {
+        "name": "OpenAI",
+        "meta": "popular",
+        "url": "https://openai.com/policies/privacy-policy",
+        "difficulty": "easy",
+        "notes": "You can send an email to [dsar@openai.com](mailto:dsar@openai.com) or just click in Settings > Data Controls > Export Data. The link sent by e-mail will expire within 24 hours.",
+        "notes_pt-BR": "Você pode enviar um e-mail para [dsar@openai.com](mailto:dsar@openai.com) ou simplesmente ir para Settings > Data Controls > Export Data. O link enviado por e-mail expira em 24 horas.",
+        "notes_pt-PT": "Você pode enviar um e-mail para [dsar@openai.com](mailto:dsar@openai.com) ou simplesmente ir para Settings > Data Controls > Export Data. O link enviado por e-mail expira em 24 horas."
+    },
+
+    {
         "name": "Patreon",
         "url": "https://privacy.patreon.com/?action=ACCESS&modal=take-control",
         "difficulty": "easy",
@@ -553,6 +563,12 @@
         "url": "https://privacyportal-t-mobile.my.onetrust.com/webform/d4a925f0-4ebf-40ba-817b-bccc309e602f/7831d667-1ebc-4b1e-a941-e545cb0d0523",
         "difficulty": "hard",
         "notes": "The email and phone number you use on the form must be associated with your T-Mobile account. Proof of identity (Driver's License or Passport, New Hampshire residents cannot submit a Driver's License as proof) is required."
+    },
+
+    {
+        "name": "T-shirt personalisé",
+        "url": "https://vive-lamode.com/collections/t-shirt-personnalise",
+        "difficulty": "easy"
     },
 
     {
