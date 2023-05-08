@@ -427,6 +427,16 @@
     },
 
     {
+        "name": "OpenAI",
+        "meta": "popular",
+        "url": "https://openai.com/policies/privacy-policy",
+        "difficulty": "easy",
+        "notes": "You can send an email to [dsar@openai.com](mailto:dsar@openai.com) or just click in Settings > Data Controls > Export Data. The link sent by e-mail will expire within 24 hours.",
+        "notes_pt-BR": "Você pode enviar um e-mail para [dsar@openai.com](mailto:dsar@openai.com) ou simplesmente ir para Settings > Data Controls > Export Data. O link enviado por e-mail expira em 24 horas.",
+        "notes_pt-PT": "Você pode enviar um e-mail para [dsar@openai.com](mailto:dsar@openai.com) ou simplesmente ir para Settings > Data Controls > Export Data. O link enviado por e-mail expira em 24 horas."
+    },
+
+    {
         "name": "Patreon",
         "url": "https://privacy.patreon.com/?action=ACCESS&modal=take-control",
         "difficulty": "easy",
