@@ -553,6 +553,13 @@
     },
 
     {
+        "name": "Stack Exchange (Stack Overflow)",
+        "url": "https://stackoverflow.com/legal/gdpr/request",
+        "difficulty": "hard",
+        "notes": "You might need to contact support to get your data deleted from all Stack Exchange network websites. Your posts will be anonymized, not deleted."
+    },
+
+    {
         "name": "Starbucks",
         "url": "https://www.starbucks.com/terms/privacy-policy/",
         "difficulty": "hard",
