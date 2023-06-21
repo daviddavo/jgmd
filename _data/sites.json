@@ -316,6 +316,7 @@
 
     {
         "name": "Instagram",
+        "meta":"popular",
         "url": "https://www.instagram.com/download/request/",
         "difficulty": "medium",
         "notes": "Select 'Obtain the data' and fill in your email and password. Once done, wait for a message to arrive in the mail. WARNING: you can only do a data request once every 48 hours.",
