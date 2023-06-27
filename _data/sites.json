@@ -499,6 +499,13 @@
         "notes": "The email and phone number you use on the form must be associated with your T-Mobile account. Proof of identity (Driver's License or Passport, New Hampshire residents cannot submit a Driver's License as proof) is required."
     },
 
+        
+    {
+        "name": "T-shirt personalisé",
+        "url": "https://vive-lamode.com/collections/t-shirt-personnalise",
+        "difficulty": "easy"
+    },
+
     {
         "name": "Taobao",
         "url": "https://taobao.com",
@@ -536,14 +543,6 @@
         "notes_es-ES": "Ve a la dirección indicada arriba, inicia sesión y da un correo electrónico en el que recibir tus datos",
         "notes_cs-CZ": "Go to the url provided above, log-in with your account credentials and provide and e-mail to receive a link to your data"
     },
-
-    
-    {
-        "name": "T-shirt personalisé",
-        "url": "https://vive-lamode.com/collections/t-shirt-personnalise",
-        "difficulty": "easy"
-    },
-    
 
     {
         "name": "Tmall",
