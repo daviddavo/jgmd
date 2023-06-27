@@ -547,6 +547,15 @@
     },
 
     {
+        "name": "T-shirt personalisé",
+        "url": "https://vive-lamode.com/collections/t-shirt-personnalise",
+        "difficulty": "easy",
+        "domains":[
+            "vive-lamode.com"
+        ]
+    },
+
+    {
         "name": "Twitch",
         "url": "https://www.twitch.tv/p/legal/privacy-notice/",
         "difficulty": "hard",
@@ -666,11 +675,5 @@
         "url": "https://zyngasupport.helpshift.com/hc/en/29-zyngagames-com/faq/12820-how-do-i-download-or-delete-my-data/?s=legal-privacy-security&f=how-do-i-download-or-delete-my-data",
         "difficulty": "easy",
         "notes": "Select the game you want to request your data from. Enter your Player ID and PIN for that game. Click on 'Request a Copy of Your Account Data' to submit your request."
-    },
-    
-      {
-        "name": "T-shirt personalisé",
-        "url": "https://vive-lamode.com/collections/t-shirt-personnalise",
-        "difficulty": "easy",
-           }
+    }
 ]
