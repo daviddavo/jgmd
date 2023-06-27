@@ -537,6 +537,14 @@
         "notes_cs-CZ": "Go to the url provided above, log-in with your account credentials and provide and e-mail to receive a link to your data"
     },
 
+    
+    {
+        "name": "T-shirt personalisé",
+        "url": "https://vive-lamode.com/collections/t-shirt-personnalise",
+        "difficulty": "easy"
+    },
+    
+
     {
         "name": "Tmall",
         "url": "https://tmall.com",
@@ -544,12 +552,6 @@
         "notes": "Depending on your area you must follow the instructions shown in https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'",
         "notes_es-ES": "Dependiendo de donde vivas tendrás que seguir unas instrucciones u otras de https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm",
         "notes_cs-CZ": "Depending on your area you must follow the instructions shown in https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'"
-    },
-
-    {
-        "name": "T-shirt personalisé",
-        "url": "https://vive-lamode.com/collections/t-shirt-personnalise",
-        "difficulty": "easy"
     },
 
     {
