@@ -357,6 +357,15 @@
     },
 
     {
+        "name": "Livelo",
+        "url": "https://www.livelo.com.br/profile?occsite=points&tab=tab_label_1",
+        "difficulty": "easy",
+        "domains": [
+            "livelo.com.br"
+        ]
+    },
+
+    {
         "name": "Lolja",
         "url": "https://www.lolja.com.br/privacidade/",
         "difficulty": "hard",
