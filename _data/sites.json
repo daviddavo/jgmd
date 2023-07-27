@@ -721,6 +721,14 @@
     },
 
     {
+        "name": "Vinted",
+        "url": "https://www.vinted.com/request_data_export",
+        "difficulty": "easy",
+        "notes": "Click on your profile icon, then \"Settings\", \"Privacy settings\", \"Download account data\" and \"Request data\".",
+        "notes_it-IT": "Fai clic sull'icona del tuo profilo, quindi su \"Impostazioni\", \"Impostazioni di privacy\", \"Scarica i dati del tuo account\" e \"Richiedi i dati\"."
+    },
+
+    {
         "name": "Walmart",
         "url": "https://cpa-ui.walmart.com/affirmation?brandCode=WMT",
         "difficulty": "hard",
