@@ -714,6 +714,14 @@
     },
 
     {
+        "name": "Uphold",
+        "url": "https://support.uphold.com/hc/en-us/requests/new?category=data_and_privacy_inquiries",
+        "difficulty": "hard",
+        "notes": "Contact the customer support with the provided form and request your data.",
+        "notes_it-IT": "Contatta l'assistenza clienti con il modulo fornito e richiedi i tuoi dati."
+    },
+
+    {
         "name": "USACO Guide",
         "url": "https://usaco.guide/settings#user-data",
         "difficulty": "easy",
