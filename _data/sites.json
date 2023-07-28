@@ -195,6 +195,15 @@
     },
 
     {
+        "name": "Electroneum",
+        "url": "https://support.electroneum.com/hc/en-gb/requests/new",
+        "difficulty": "hard",
+        "email": "support@electroneum.com",
+        "notes": "Contact the customer support using the form or via email and request your data.",
+        "notes_it-IT": "Contatta l'assistenza clienti tramite il form o via email e richiedi i tuoi dati."
+    },
+
+    {
         "name": "Electronic Arts",
         "url": "https://myaccount.ea.com/cp-ui/downloaddata/index",
         "difficulty": "easy",
