@@ -24,6 +24,19 @@
     },
 
     {
+        "name": "Algor Education",
+        "url": "https://en.algoreducation.com/contact-us",
+        "url_es-ES": "https://es.algoreducation.com/contact-us",
+        "url_de-DE": "https://de.algoreducation.com/contact-us",
+        "url_fr-FR": "https://fr.algoreducation.com/contact-us",
+        "url_it-IT": "https://www.algoreducation.com/contattaci",
+        "difficulty": "hard",
+        "email": "support@algoreducation.com",
+        "notes": "Contact the customer support and request your data.",
+        "notes_it-IT": "Contatta l'assistenza clienti e richiedi i tuoi dati."
+    },
+
+    {
         "name": "Alibaba",
         "url": "https://alibaba.com",
         "difficulty": "hard",
