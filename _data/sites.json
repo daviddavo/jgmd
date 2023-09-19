@@ -427,6 +427,20 @@
     },
 
     {
+        "name": "Minecraft Tools",
+        "url": "https://minecraft.tools/en/contact.php",
+        "url_fr-FR": "https://minecraft.tools/fr/contact.php",
+        "url_de-DE": "https://minecraft.tools/de/contact.php",
+        "url_it-IT": "https://minecraft.tools/it/contact.php",
+        "url_ru-RU": "https://minecraft.tools/ru/contact.php",
+        "url_es-ES": "https://minecraft.tools/es/contact.php",
+        "difficulty": "impossible",
+        "email": "contact@minecraft.tools",
+        "notes": "The only way to contact them is by email, but no one responds.",
+        "notes_it-IT": "L'unico modo per contattarli è tramite email, ma nessuno risponde."
+    },
+
+    {
         "name": "Mozilla",
         "url": "https://www.mozilla.org/privacy/#contact",
         "difficulty": "medium",
