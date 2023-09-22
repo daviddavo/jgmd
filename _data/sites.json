@@ -769,6 +769,14 @@
     },
 
     {
+        "name": "Zanichelli",
+        "url": "https://my.zanichelli.it/contattaci",
+        "difficulty": "hard",
+        "notes": "To request your data you need to contact customer service.",
+        "notes_it-IT": "Per richiedere i tuoi dati devi contattare il servizio clienti."
+    },
+
+    {
         "name": "ZombieLink",
         "url": "https://zombiesrungame.com/zombielink/account",
         "difficulty": "easy",
