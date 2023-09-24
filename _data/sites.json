@@ -421,6 +421,19 @@
     },
 
     {
+        "name": "My Lands",
+        "url": "https://uk.mlgame.org/",
+        "url_ru-RU": "https://ru.mlgame.org/",
+        "url_fr-FR": "https://fr.mlgame.org/",
+        "url_it-IT": "https://it.mlgame.org/",
+        "url_cs-CZ": "https://cz.mlgame.org/",
+        "difficulty": "hard",
+        "email": "support_uk@elyland.net",
+        "notes": "Contact the customer support via email and ask to access your data. You should use the email of the country where you are registered.",
+        "notes_it-IT": "Contatta l'assistenza clienti via email e chiedi di accedere ai tuoi dati. Dovresti utilizzare l'email della nazione in cui sei registrato."
+    },
+
+    {
         "name": "Netflix",
         "meta": "popular",
         "url": "https://www.netflix.com/",
