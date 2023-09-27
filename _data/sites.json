@@ -780,6 +780,15 @@
     {
         "name": "Vinted",
         "url": "https://www.vinted.com/request_data_export",
+        "url_cs-CZ": "https://www.vinted.cz/request_data_export",
+        "url_de-DE": "https://www.vinted.de/request_data_export",
+        "url_es-ES": "https://www.vinted.es/request_data_export",
+        "url_fr-FR": "https://www.vinted.fr/request_data_export",
+        "url_it-IT": "https://www.vinted.it/request_data_export",
+        "url_nl-NL": "https://www.vinted.nl/request_data_export",
+        "url_pl-PL": "https://www.vinted.pl/request_data_export",
+        "url_pt-PT": "https://www.vinted.pt/request_data_export",
+        "url_en-GB": "https://www.vinted.co.uk/request_data_export",
         "difficulty": "easy",
         "notes": "Click on your profile icon, then \"Settings\", \"Privacy settings\", \"Download account data\" and \"Request data\".",
         "notes_it-IT": "Fai clic sull'icona del tuo profilo, quindi su \"Impostazioni\", \"Impostazioni di privacy\", \"Scarica i dati del tuo account\" e \"Richiedi i dati\"."
