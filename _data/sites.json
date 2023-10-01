@@ -830,7 +830,11 @@
 
     {
         "name": "Yahoo!",
-        "url": "https://es.yahoo.com/",
+        "url": "https://yahoo.com/",
+        "url_de-DE": "https://de.yahoo.com/",
+        "url_en-GB": "https://uk.yahoo.com/",
+        "url_es-ES": "https://espanol.yahoo.com/",
+        "url_fr-FR": "https://fr.yahoo.com/",
         "difficulty": "easy",
         "notes": "Go to https://yahoo.mydashboard.oath.com/ with a Yahoo! account, scroll down and select 'Request a download' and on the next page you select all the data you want to download, then add an email that you want notify when the download will be ready, this process may take about 30 days."
     },
