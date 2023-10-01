@@ -829,6 +829,13 @@
     },
 
     {
+        "name": "Withings",
+        "url": "https://account.withings.com/export/user_select",
+        "difficulty": "easy",
+        "notes": "Visit the linked paged to request your data. After a short while you'll receive an email and you can download your data."
+    },
+
+    {
         "name": "Yahoo!",
         "url": "https://es.yahoo.com/",
         "difficulty": "easy",
