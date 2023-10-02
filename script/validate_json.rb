@@ -22,7 +22,7 @@ module ExitCodes
 end
 
 SupportedDifficulties = ["easy", "medium", "hard", "limited", "impossible"]
-SupportedEntryKeys = ["difficulty", "domains", "email", "email_body", "email_subject", "meta", "name", "notes", "url"]
+SupportedEntryKeys = ["difficulty", "email", "email_body", "email_subject", "meta", "name", "notes", "url"]
 SupportedLanguageKeys = ["about", "contribute", "difficulty", "difficulty_easy", "difficulty_hard", "difficulty_impossible",
                         "difficulty_limited", "difficulty_medium", "footercredits", "footerlicense",
                         "guide", "guideeasy", "guideexplanations", "guidehard", "guideimpossible", "guidelimited",
@@ -113,7 +113,6 @@ def validate_website_entry(key, i)
     validate_accepted_keys(key)
     error_on_missing_field(key, 'url', ExitCodes::MISSING_URL)
     error_on_missing_field(key, 'difficulty', ExitCodes::MISSING_DIFFICULTY)
-    warning_on_missing_field(key, 'domains')
     validate_difficulty(key)
     validate_localized_urls(key)
     validate_localized_notes(key)
