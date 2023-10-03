@@ -302,6 +302,13 @@
     },
 
     {
+        "name": "Gmail",
+        "url": "https://takeout.google.com/",
+        "difficulty": "easy",
+        "notes": "Since Gmail is a service by Google, please refer to the instructions for [Google](./#google)."
+    },
+
+    {
         "name": "GOG",
         "url": "https://support.gog.com/hc/en-us/requests/new?form=other&product=gog",
         "difficulty": "hard",
