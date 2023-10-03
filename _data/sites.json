@@ -850,6 +850,13 @@
     },
 
     {
+        "name": "YouTube / YouTube Music",
+        "url": "https://takeout.google.com/",
+        "difficulty": "easy",
+        "notes": "Since YouTube and YouTube Music are services by Google, please refer to the instructions for [Google](./#google)."
+    },
+
+    {
         "name": "Zanichelli",
         "url": "https://my.zanichelli.it/contattaci",
         "difficulty": "hard",
