@@ -24,6 +24,16 @@
     },
 
     {
+        "name": "Akinator",
+        "url": "https://en.akinator.com/content/13/privacy-policy",
+        "difficulty": "hard",
+        "email": "privacypolicy@elokence.com",
+        "notes": "According to privacy policy (item 8), you have to send an e-mail to them requesting the data.",
+        "notes_pt-BR": "De acordo com a política de privacidade (item 8), você tem de enviar um e-mail para eles, solicitando os dados.",
+        "notes_pt-PT": "De acordo com a política de privacidade (item 8), você tem de enviar um e-mail para eles, solicitando os dados."
+    },
+
+    {
         "name": "Algor Education",
         "url": "https://en.algoreducation.com/contact-us",
         "url_es-ES": "https://es.algoreducation.com/contact-us",
