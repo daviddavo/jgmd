@@ -446,7 +446,7 @@
         "difficulty": "hard",
         "email": "gdpr@modrinth.com",
         "notes": "Send an email requesting a copy of your data.",
-        "notes_it": "Invia una email richiedendo una copia dei tuoi dati."
+        "notes_it-IT": "Invia una email richiedendo una copia dei tuoi dati."
     },
 
     {
