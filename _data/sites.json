@@ -441,6 +441,15 @@
     },
 
     {
+        "name": "Modrinth",
+        "url": "https://modrinth.com/legal/privacy",
+        "difficulty": "hard",
+        "email": "gdpr@modrinth.com",
+        "notes": "Send an email requesting a copy of your data.",
+        "notes_it": "Invia una email richiedendo una copia dei tuoi dati."
+    },
+
+    {
         "name": "Mozilla",
         "url": "https://www.mozilla.org/privacy/#contact",
         "difficulty": "medium",
