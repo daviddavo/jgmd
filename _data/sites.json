@@ -549,7 +549,14 @@
     },
 
     {
-        "name": "Paypal",
+        "name": "Paypal Account",
+        "url": "https://www.paypal.com/myaccount/privacy/data/dar",
+        "difficulty": "easy",
+        "notes": "Download all your personal data (transaction history excluded). Click on the 'send request' button, you will be notified via email once your data is ready."
+    },
+    
+    {
+        "name": "Paypal Transactions",
         "url": "https://www.paypal.com/reports/dlog",
         "difficulty": "medium",
         "notes": "This page allows you to download all the transactions of your account. Select 'all transactions' in the 'transaction type' dropdown, insert the date interval you want (note: you cannot go back more than ~6 years). Then click 'create report'. You will receive an email once your report is ready. "
