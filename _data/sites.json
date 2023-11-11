@@ -218,6 +218,15 @@
     },
 
     {
+        "name": "Edizioni Simone",
+        "url": "https://edizioni.simone.it/informativa-sulla-privacy",
+        "difficulty": "hard",
+        "email": "privacy@simone.it",
+        "notes": "Contact the customer support via email and request a copy of your data.",
+        "notes_it-IT": "Contatta l'assistenza clienti via email e richiedi una copia dei tuoi dati."
+    },
+
+    {
         "name": "Electroneum",
         "url": "https://support.electroneum.com/hc/en-gb/requests/new",
         "difficulty": "hard",
