@@ -496,6 +496,19 @@
     },
 
     {
+        "name": "Notion",
+        "url": "https://www.notion.so/Privacy-Policy-3468d120cf614d4c9014c09f6adc9091",
+        "difficulty": "hard",
+        "email": "team@makenotion.com",
+        "notes": "Contact the customer support via email and request a copy of your data.",
+        "notes_it-IT": "Contatta l'assistenza clienti via email e richiedi una copia dei tuoi dati.",
+        "domains": [
+            "notion.so",
+            "status.notion.so"
+        ]
+    },
+
+    {
         "name": "OpenAI",
         "meta": "popular",
         "url": "https://openai.com/policies/privacy-policy",
