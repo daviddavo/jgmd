@@ -501,11 +501,7 @@
         "difficulty": "hard",
         "email": "team@makenotion.com",
         "notes": "Contact the customer support via email and request a copy of your data.",
-        "notes_it-IT": "Contatta l'assistenza clienti via email e richiedi una copia dei tuoi dati.",
-        "domains": [
-            "notion.so",
-            "status.notion.so"
-        ]
+        "notes_it-IT": "Contatta l'assistenza clienti via email e richiedi una copia dei tuoi dati."
     },
 
     {
