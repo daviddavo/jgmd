@@ -587,6 +587,14 @@
     },
 
     {
+        "name": "PlayStation Network",
+        "url": "https://id.sonyentertainmentnetwork.com/id/management_ca/?entry=privacy_settings",
+        "difficulty": "easy",
+        "notes": "Click on your profile icon, then on \"Account Settings\", then on \"Privacy Settings\", then on \"Data Access Request\", then on \"Request Data\". You will receive an email with a link to download your data when it is ready.",
+        "notes_it-IT": "Fai clic sull'icona del tuo profilo, quindi su \"Impostazioni account\", quindi su \"Impostazioni privacy\", quindi su \"Richiesta di accesso ai dati\", quindi su \"Richiedi i dati\". Riceverai un'email con un collegamento per scaricare i tuoi dati quando saranno pronti."
+    },
+
+    {
         "name": "Popeyes",
         "url": "https://privacyportal-eu-cdn.onetrust.com/dsarwebform/7ae425dd-1c76-46b0-a1b4-2422a364fae3/draft/1d4481aa-204a-4cb5-a40a-82e4369d16b2.html",
         "difficulty": "medium",
