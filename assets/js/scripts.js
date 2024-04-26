@@ -59,7 +59,7 @@ $(function(){
     $(".num-sort a").click(function(e){
         e.preventDefault();
         var term = $(this).text().toLowerCase();
-    
+
         hideFilteredSites(function() {
             var text = $(this).find(".site-header").text().trim().toLowerCase().substr(0,1);
             return !~text.indexOf(term);

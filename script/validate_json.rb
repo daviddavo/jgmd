@@ -149,7 +149,7 @@ json_files.each do |file|
             STDERR.puts file + " contains duplicates"
             exit ExitCodes::DUPLICATES
         end
-        
+
         # check for alphabetical ordering
         json.each_with_index do |(key, _), i|
             # sites.json is an array of objects; this would expand to:

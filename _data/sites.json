@@ -569,7 +569,7 @@
         "difficulty": "easy",
         "notes": "Download all your personal data (transaction history excluded). Click on the 'send request' button, you will be notified via email once your data is ready."
     },
-    
+
     {
         "name": "Paypal Transactions",
         "url": "https://www.paypal.com/reports/dlog",
@@ -714,7 +714,6 @@
         "notes": "The email and phone number you use on the form must be associated with your T-Mobile account. Proof of identity (Driver's License or Passport, New Hampshire residents cannot submit a Driver's License as proof) is required."
     },
 
-        
     {
         "name": "T-shirt personalisé",
         "url": "https://vive-lamode.com/collections/t-shirt-personnalise",
