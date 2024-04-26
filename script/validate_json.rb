@@ -18,10 +18,11 @@ module ExitCodes
     UNEXPECTED_LANGUAGE_KEY = 10   # Unexpected language key for translation
     UNSUPPORTED_FIELD = 11         # Unsupported field for site entry
     UNEXPECTED_NOTES = 12          # Unexpected notes key for translation
+    DUPLICATES = 13                # Duplicate entries
 end
 
 SupportedDifficulties = ["easy", "medium", "hard", "limited", "impossible"]
-SupportedEntryKeys = ["difficulty", "domains", "email", "email_body", "email_subject", "meta", "name", "notes", "url"]
+SupportedEntryKeys = ["difficulty", "email", "email_body", "email_subject", "meta", "name", "notes", "url"]
 SupportedLanguageKeys = ["about", "contribute", "difficulty", "difficulty_easy", "difficulty_hard", "difficulty_impossible",
                         "difficulty_limited", "difficulty_medium", "footercredits", "footerlicense",
                         "guide", "guideeasy", "guideexplanations", "guidehard", "guideimpossible", "guidelimited",
@@ -112,7 +113,6 @@ def validate_website_entry(key, i)
     validate_accepted_keys(key)
     error_on_missing_field(key, 'url', ExitCodes::MISSING_URL)
     error_on_missing_field(key, 'difficulty', ExitCodes::MISSING_DIFFICULTY)
-    warning_on_missing_field(key, 'domains')
     validate_difficulty(key)
     validate_localized_urls(key)
     validate_localized_notes(key)
@@ -143,6 +143,13 @@ json_files.each do |file|
         json = JSON.parse(File.read(file))
         is_sites_json = File.basename(file) =~ /sites.json/
         keys_in_language_json = []
+
+        # check for duplicates
+        if json.uniq.length != json.length
+            STDERR.puts file + " contains duplicates"
+            exit ExitCodes::DUPLICATES
+        end
+        
         # check for alphabetical ordering
         json.each_with_index do |(key, _), i|
             # sites.json is an array of objects; this would expand to:

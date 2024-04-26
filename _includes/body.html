@@ -1,3 +1,4 @@
+<!-- Search / Filter Section -->
 <div class="search">
     <div class="search-container">
         <input type="text" id="search">
@@ -7,11 +8,13 @@
     <div class="sort-container">
         <button class="popular">{{ site.data.trans[page.lang].popular }}</button>
         <button data-dropdown="#alphabetical-dropdown" class="az-sort">A - Z</button>
+        <button data-dropdown="#numerical-dropdown" class="09-sort">0 - 9</button>
         <button data-dropdown="#difficulty-dropdown" class="diff-sort">{{ site.data.trans[page.lang].difficulty }}</button>
         <button class="reset">{{ site.data.trans[page.lang].reset }}</button>
     </div>
 </div>
 
+<!-- Site List -->
 <main>
     <section class="sites" id="sites">
         <p class="no-results">{{ site.data.trans[page.lang].noresults }} <a href='https://github.com/justgetmydata/jgmd'>{{ site.data.trans[page.lang].noresultshelp }}</a>.</p>
@@ -62,6 +65,7 @@
     </section>
 </main>
 
+<!-- About Section -->
 <section id="about" class="info-block about">
     <div class="info-container">
         <div class="info-block-half">
@@ -135,6 +139,19 @@
     </ul>
 </div>
 
+<!-- Numerical sorting -->
+<div id="numerical-dropdown" class="dropdown dropdown-tip">
+    <ul class="dropdown-menu ltr">
+        <span class="num-sort">
+            {% assign digits = '0,1,2,3,4,5,6,7,8,9' | split:',' %}
+            {% for digit in digits %}
+            <li><a href="">{{ digit }}</a></li>
+            {% endfor %}
+        </span>
+    </ul>
+</div>
+
+<!-- Difficulty sorting -->
 <div id="difficulty-dropdown" class="dropdown dropdown-tip">
     <ul class="dropdown-menu">
         <span class="diff-sort">

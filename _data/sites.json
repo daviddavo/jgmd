@@ -24,6 +24,16 @@
     },
 
     {
+        "name": "Akinator",
+        "url": "https://en.akinator.com/content/13/privacy-policy",
+        "difficulty": "hard",
+        "email": "privacypolicy@elokence.com",
+        "notes": "According to privacy policy (item 8), you have to send an e-mail to them requesting the data.",
+        "notes_pt-BR": "De acordo com a política de privacidade (item 8), você tem de enviar um e-mail para eles, solicitando os dados.",
+        "notes_pt-PT": "De acordo com a política de privacidade (item 8), você tem de enviar um e-mail para eles, solicitando os dados."
+    },
+
+    {
         "name": "Algor Education",
         "url": "https://en.algoreducation.com/contact-us",
         "url_es-ES": "https://es.algoreducation.com/contact-us",
@@ -208,6 +218,15 @@
     },
 
     {
+        "name": "Edizioni Simone",
+        "url": "https://edizioni.simone.it/informativa-sulla-privacy",
+        "difficulty": "hard",
+        "email": "privacy@simone.it",
+        "notes": "Contact the customer support via email and request a copy of your data.",
+        "notes_it-IT": "Contatta l'assistenza clienti via email e richiedi una copia dei tuoi dati."
+    },
+
+    {
         "name": "Electroneum",
         "url": "https://support.electroneum.com/hc/en-gb/requests/new",
         "difficulty": "hard",
@@ -302,6 +321,13 @@
     },
 
     {
+        "name": "Gmail",
+        "url": "https://takeout.google.com/",
+        "difficulty": "easy",
+        "notes": "Since Gmail is a service by Google, please refer to the instructions for [Google](./#google)."
+    },
+
+    {
         "name": "GOG",
         "url": "https://support.gog.com/hc/en-us/requests/new?form=other&product=gog",
         "difficulty": "hard",
@@ -315,7 +341,7 @@
         "meta": "popular",
         "url": "https://takeout.google.com/",
         "difficulty": "easy",
-        "notes": "Go to https://takeout.google.com/ logged in a Google Account and select the data from every Google Service you need/want and click \"Next Step\". Then you can choose between export now or once every 2 months for 1 year, the file type and size. Click \"Create Export\" and wait until the process is finished. Then, just download your data.",
+        "notes": "Go to [Google Takeout](https://takeout.google.com/) while logged in to a Google Account and select the data from every Google Service you need/want and click \"Next Step\". Then you can choose between export now or once every 2 months for 1 year, the file type and size. Click \"Create Export\" and wait until the process is finished. Then, just download your data.",
         "notes_es-ES": "Ve a https://takeout.google.com/, inicia sesión con tu cuenta de Google, selecciona los servicios que necesites. Puedes elegir entre exportar ahora o exportar cada 2 meses durante un año.",
         "notes_pl-PL": "Wejdź na stronę https://takeout.google.com/, zaloguj się za pomocą swojego konta Google, wybierz potrzebne usługi. Możesz wybrać eksport teraz lub eksport co 2 miesiące przez rok."
     },
@@ -381,10 +407,7 @@
     {
         "name": "Livelo",
         "url": "https://www.livelo.com.br/profile?occsite=points&tab=tab_label_1",
-        "difficulty": "easy",
-        "domains": [
-            "livelo.com.br"
-        ]
+        "difficulty": "easy"
     },
 
     {
@@ -441,6 +464,15 @@
     },
 
     {
+        "name": "Modrinth",
+        "url": "https://modrinth.com/legal/privacy",
+        "difficulty": "hard",
+        "email": "gdpr@modrinth.com",
+        "notes": "Send an email requesting a copy of your data.",
+        "notes_it-IT": "Invia una email richiedendo una copia dei tuoi dati."
+    },
+
+    {
         "name": "Mozilla",
         "url": "https://www.mozilla.org/privacy/#contact",
         "difficulty": "medium",
@@ -465,8 +497,8 @@
         "url_cs-CZ": "https://cz.mlgame.org/",
         "difficulty": "hard",
         "email": "support_uk@elyland.net",
-        "notes": "Contact the customer support via email and ask to access your data. You should use the email of the country where you are registered.",
-        "notes_it-IT": "Contatta l'assistenza clienti via email e chiedi di accedere ai tuoi dati. Dovresti utilizzare l'email della nazione in cui sei registrato."
+        "notes": "Contact the customer support via email and ask to access your data. You should use the email of the country where you are registered: it's in the contacts, at the bottom of the website.",
+        "notes_it-IT": "Contatta l'assistenza clienti via email e chiedi di accedere ai tuoi dati. Dovresti utilizzare l'email della nazione in cui sei registrato: è nei contatti, in fondo al sito web."
     },
 
     {
@@ -493,6 +525,15 @@
         "notes": "Click the link above and fill the form to confirm the request.",
         "notes_pt-BR": "Clique no link acima e preencha o formulário para confirmar a solicitação.",
         "notes_pt-PT": "Clique no link acima e preencha o formulário para confirmar a solicitação."
+    },
+
+    {
+        "name": "Notion",
+        "url": "https://www.notion.so/Privacy-Policy-3468d120cf614d4c9014c09f6adc9091",
+        "difficulty": "hard",
+        "email": "team@makenotion.com",
+        "notes": "Contact the customer support via email and request a copy of your data.",
+        "notes_it-IT": "Contatta l'assistenza clienti via email e richiedi una copia dei tuoi dati."
     },
 
     {
@@ -523,12 +564,34 @@
     },
 
     {
+        "name": "Paypal Account",
+        "url": "https://www.paypal.com/myaccount/privacy/data/dar",
+        "difficulty": "easy",
+        "notes": "Download all your personal data (transaction history excluded). Click on the 'send request' button, you will be notified via email once your data is ready."
+    },
+    
+    {
+        "name": "Paypal Transactions",
+        "url": "https://www.paypal.com/reports/dlog",
+        "difficulty": "medium",
+        "notes": "This page allows you to download all the transactions of your account. Select 'all transactions' in the 'transaction type' dropdown, insert the date interval you want (note: you cannot go back more than ~6 years). Then click 'create report'. You will receive an email once your report is ready. "
+    },
+
+    {
         "name": "PcComponentes",
         "url": "https://www.pccomponentes.com/",
         "difficulty": "hard",
         "notes": "You will have to send a written request with your passport, or another identification document, to  Av. Europa Parcela 2-3, Pol. Ind. Las Salinas 30840 Alhama de Murcia. You can also request the data throught a e-mail to [lopd@pccomponentes.com](mailto:lopd@pccomponentes.com).",
         "notes_es-ES": "Tienes que enviar una solicitud escrita con un documento identificativo a Av. Europa, Parcela 2-3, Pol. Ind. Las Salinas 30840 Alhama de Murcia. También puedes realizar la petición por e-mail a [lopd@pccomponentes.com](mailto:lopd@pccomponentes.com)",
         "notes_cs-CZ": "You will have to send a written request with your passport, or another identification document, to  Av. Europa Parcela 2-3, Pol. Ind. Las Salinas 30840 Alhama de Murcia. You can also request the data throught a e-mail to [lopd@pccomponentes.com](mailto:lopd@pccomponentes.com)."
+    },
+
+    {
+        "name": "PlayStation Network",
+        "url": "https://id.sonyentertainmentnetwork.com/id/management_ca/?entry=privacy_settings",
+        "difficulty": "easy",
+        "notes": "Click on your profile icon, then on \"Account Settings\", then on \"Privacy Settings\", then on \"Data Access Request\", then on \"Request Data\". You will receive an email with a link to download your data when it is ready.",
+        "notes_it-IT": "Fai clic sull'icona del tuo profilo, quindi su \"Impostazioni account\", quindi su \"Impostazioni privacy\", quindi su \"Richiesta di accesso ai dati\", quindi su \"Richiedi i dati\". Riceverai un'email con un collegamento per scaricare i tuoi dati quando saranno pronti."
     },
 
     {
@@ -788,6 +851,15 @@
     {
         "name": "Vinted",
         "url": "https://www.vinted.com/request_data_export",
+        "url_cs-CZ": "https://www.vinted.cz/request_data_export",
+        "url_de-DE": "https://www.vinted.de/request_data_export",
+        "url_es-ES": "https://www.vinted.es/request_data_export",
+        "url_fr-FR": "https://www.vinted.fr/request_data_export",
+        "url_it-IT": "https://www.vinted.it/request_data_export",
+        "url_nl-NL": "https://www.vinted.nl/request_data_export",
+        "url_pl-PL": "https://www.vinted.pl/request_data_export",
+        "url_pt-PT": "https://www.vinted.pt/request_data_export",
+        "url_en-GB": "https://www.vinted.co.uk/request_data_export",
         "difficulty": "easy",
         "notes": "Click on your profile icon, then \"Settings\", \"Privacy settings\", \"Download account data\" and \"Request data\".",
         "notes_it-IT": "Fai clic sull'icona del tuo profilo, quindi su \"Impostazioni\", \"Impostazioni di privacy\", \"Scarica i dati del tuo account\" e \"Richiedi i dati\"."
@@ -828,8 +900,19 @@
     },
 
     {
+        "name": "Withings",
+        "url": "https://account.withings.com/export/user_select",
+        "difficulty": "easy",
+        "notes": "Visit the linked paged to request your data. After a short while you'll receive an email and you can download your data."
+    },
+
+    {
         "name": "Yahoo!",
-        "url": "https://es.yahoo.com/",
+        "url": "https://yahoo.com/",
+        "url_de-DE": "https://de.yahoo.com/",
+        "url_en-GB": "https://uk.yahoo.com/",
+        "url_es-ES": "https://espanol.yahoo.com/",
+        "url_fr-FR": "https://fr.yahoo.com/",
         "difficulty": "easy",
         "notes": "Go to https://yahoo.mydashboard.oath.com/ with a Yahoo! account, scroll down and select 'Request a download' and on the next page you select all the data you want to download, then add an email that you want notify when the download will be ready, this process may take about 30 days."
     },
@@ -839,6 +922,13 @@
         "url": "https://www.yoigo.com/",
         "difficulty": "hard",
         "notes": "You must to send e-mail to [datospersonales@yoigo.com](mailto:datospersonales@yoigo.com) with your DNI scaned by two sides with a request for what right you want to exercise."
+    },
+
+    {
+        "name": "YouTube / YouTube Music",
+        "url": "https://takeout.google.com/",
+        "difficulty": "easy",
+        "notes": "Since YouTube and YouTube Music are services by Google, please refer to the instructions for [Google](./#google)."
     },
 
     {
