@@ -569,7 +569,7 @@
         "difficulty": "easy",
         "notes": "Download all your personal data (transaction history excluded). Click on the 'send request' button, you will be notified via email once your data is ready."
     },
-    
+
     {
         "name": "Paypal Transactions",
         "url": "https://www.paypal.com/reports/dlog",
@@ -618,6 +618,14 @@
         "notes": "Click on getting the data from a range of time or all. Then, wait for the private message in reddit, click in \"Download here\" and we are done. WARNING: you can only do a data request once every 30 days. You must use the [ticket form](https://www.reddithelp.com/hc/requests/new?ticket_form_id=360001370251) if you do not have access to your account.",
         "notes_es-ES": "Puedes obtener tus datos desde un intervalo de tiempo o todos los datos. Recibirás un mensaje privado con el que podrás descargar los datos.",
         "notes_pl-PL": "Kliknij na pobieranie danych z zakresu czasu lub wszystkich. Następnie poczekaj na prywatną wiadomość w reddit, kliknij w 'Pobierz tutaj' i gotowe. UWAGA: prośbę o dane można wykonać tylko raz na 30 dni."
+    },
+
+    {
+        "name": "Revolut",
+        "url": "https://www.revolut.com/privacy-policy/",
+        "difficulty": "easy",
+        "notes": "From the app, go to the profile icon, then to \"Account\" -> \"Documents\" -> \"General\" -> \"Subject access request\". You will get a PDF document with your data.",
+        "notes_it-IT": "Dall'applicazione, vai sull'icona del profilo, quindi su \"Conto\" -> \"Documenti\" -> \"Generale\" -> \"Richiesta di accesso ai dati personali\". Otterrai un documento PDF con i tuoi dati."
     },
 
     {
@@ -714,7 +722,6 @@
         "notes": "The email and phone number you use on the form must be associated with your T-Mobile account. Proof of identity (Driver's License or Passport, New Hampshire residents cannot submit a Driver's License as proof) is required."
     },
 
-        
     {
         "name": "T-shirt personalisé",
         "url": "https://vive-lamode.com/collections/t-shirt-personnalise",
