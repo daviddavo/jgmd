@@ -557,6 +557,13 @@
     },
 
     {
+        "name": "Papernodes",
+        "url": "https://papernodes.com",
+        "difficulty": "easy",
+        "notes": "Hover over More Pages then click on login, then go to account settings scroll down and u see Download my data then just press the download button then enter your password and all the data asociated to your account will be downloaded."
+    },
+
+    {
         "name": "Patreon",
         "url": "https://privacy.patreon.com/?action=ACCESS&modal=take-control",
         "difficulty": "easy",
