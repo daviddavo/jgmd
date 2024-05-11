@@ -822,6 +822,16 @@
     },
 
     {
+        "name": "UniCredit",
+        "url": "https://www.unicreditgroup.eu/en/info/privacy.html",
+        "url_it-IT": "https://www.unicreditgroup.eu/it/info/privacy.html",
+        "difficulty": "hard",
+        "email": "diritti.privacy@unicredit.eu",
+        "notes": "Contact the customer support via email and request a copy of your data.",
+        "notes_it-IT": "Contatta l'assistenza clienti via email e richiedi una copia dei tuoi dati."
+    },
+
+    {
         "name": "Universidad Complutense de Madrid",
         "url": "https://www.ucm.es/como-ejercer-los-derechos",
         "difficulty": "hard",
