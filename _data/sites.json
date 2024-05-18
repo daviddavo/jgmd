@@ -354,6 +354,15 @@
     },
 
     {
+        "name": "Hype",
+        "url": "https://www.hype.it/privacy",
+        "email": "dpo@hype.it",
+        "difficulty": "hard",
+        "notes": "Contact the customer support via email and request a copy of your data.",
+        "notes_it-IT": "Contatta l'assistenza clienti via email e richiedi una copia dei tuoi dati."
+    },
+
+    {
         "name": "ING",
         "url": "https://www.ing.com/Privacy-Statement.htm",
         "difficulty": "hard",
