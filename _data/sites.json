@@ -259,11 +259,10 @@
     {
         "name": "Facebook",
         "meta": "popular",
-        "url": "https://www.facebook.com/help/1701730696756992",
+        "url": "https://accountscenter.facebook.com/info_and_permissions",
         "difficulty": "easy",
-        "notes": "Go to the url provided above and follow the instructions. Logging into your account, you can access a summary of your data or download a copy. The data are categorized by type to help the search and you can download it in JSON or HTML formats.",
-        "notes_es-ES": "Entra en la dirección indicada arriba y sigue las intrucciones. Entrando en tu cuenta, tienes la posibilidad de visualizar un resumen de tus datos o descargar una copia. La información esta clasificada por tipos para ayudar en la búsqueda y podrás descargarla en formato JSON o HTML.",
-        "notes_cs-CZ": "Go to the url provided above and follow the instructions. Logging into your account, you can access a summary of your data or download a copy. The data are categorized by type to help the search and you can download it in JSON or HTML formats."
+        "notes": "Go to the profile icon, click \"Settings & privacy\", then \"Settings\", and click \"See more in Accounts Center\". You can access a summary of your data or download a copy. The data are categorized by type to help the search. You can download it in JSON or HTML formats.",
+        "notes_it-IT": "Vai sull'icona del profilo, clicca su \"Impostazioni e privacy\", quindi su \"Impostazioni\" e clicca su \"Vedi altro nel Centro gestione account\". Puoi accedere a un riepilogo dei tuoi dati o scaricarne una copia. I dati sono categorizzati per tipo per facilitare la ricerca. Puoi scaricarli in formato JSON o HTML."
     },
 
     {
