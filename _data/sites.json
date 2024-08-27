@@ -389,6 +389,16 @@
     },
 
     {
+        "name": "Liberty Lines",
+        "url": "https://www.libertylines.it/en/privacy-policy/",
+        "url_it-IT": "https://www.libertylines.it/informativa-sulla-privacy/",
+        "difficulty": "hard",
+        "email": "privacy@libertylines.it",
+        "notes": "Send an email requesting a copy of your data.",
+        "notes_it-IT": "Invia una email richiedendo una copia dei tuoi dati."
+    },
+
+    {
         "name": "Linkedin",
         "url": "https://www.linkedin.com/",
         "difficulty": "easy",
