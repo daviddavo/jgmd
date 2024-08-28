@@ -428,6 +428,15 @@
     },
 
     {
+        "name": "Lyconet",
+        "url": "https://www.lyconet.com/",
+        "difficulty": "hard",
+        "email": "data.protection@lyconet.com",
+        "notes": "Send an email requesting a copy of your data.",
+        "notes_it-IT": "Invia un'email richiedendo una copia dei tuoi dati."
+    },
+
+    {
         "name": "Lyft",
         "url": "https://www.lyft.com/privacy/data",
         "difficulty": "easy",
