@@ -407,6 +407,14 @@
     },
 
     {
+        "name": "Lil'bots",
+        "url": "https://www.lilbots.io/pages/privacy-policy",
+        "difficulty": "hard",
+        "email": "privacy@lilbots.io",
+        "notes": "Send an email requesting a copy of your data."
+    },
+
+    {
         "name": "Linkedin",
         "url": "https://www.linkedin.com/",
         "difficulty": "easy",
