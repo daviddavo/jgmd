@@ -355,6 +355,14 @@
     },
 
     {
+        "name": "Gravatar",
+        "url": "https://gravatar.com/",
+        "difficulty": "easy",
+        "notes": "While logged in click on your email, then \"Account settings\", then \"Security & data\" and export your data.",
+        "notes_it-IT": "Dopo aver effettuato l'accesso, clicca sulla tua email, poi su \"Impostazioni dell'account\", \"Sicurezza e dati\" ed esporta i tuoi dati."
+    },
+
+    {
         "name": "Huawei",
         "url": "https://consumer.huawei.com/en/support/content/en-us00746223/",
         "difficulty": "medium",
