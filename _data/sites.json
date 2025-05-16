@@ -336,6 +336,13 @@
     },
 
     {
+        "name": "GoDaddy",
+        "url": "https://sso.godaddy.com/preferences/download-data",
+        "difficulty": "easy",
+        "notes": "After signing in, go to Account Settings → Download Your Information. You'll receive a file containing your account info including name, email, and address."
+    },
+
+    {
         "name": "GOG",
         "url": "https://support.gog.com/hc/en-us/requests/new?form=other&product=gog",
         "difficulty": "hard",
