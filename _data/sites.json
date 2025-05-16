@@ -76,6 +76,13 @@
     },
 
     {
+        "name": "Anthropic",
+        "url": "https://claude.ai/settings/data-privacy-controls",
+        "difficulty": "easy",
+        "notes": " Go to Settings → Privacy → \"Export data.\" Your account data will be compiled and made available for download with a single click."
+    },
+
+    {
         "name": "Apple",
         "meta": "popular",
         "url": "https://privacy.apple.com",
