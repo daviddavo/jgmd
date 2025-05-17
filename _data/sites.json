@@ -663,6 +663,15 @@
     },
 
     {
+        "name": "Plex",
+        "url": "https://preferences.plex.tv/",
+        "difficulty": "easy",
+        "notes": "Select your country and state of residence, then click \"Start Access Request\" to receive a copy of your account data. This replaces the older email-based request process.",
+        "email": "dataprotection@plex.tv",
+        "email_body": "Please send me a copy of my account data. My username is XXXXXX."
+    },
+
+    {
         "name": "Popeyes",
         "url": "https://privacyportal-eu-cdn.onetrust.com/dsarwebform/7ae425dd-1c76-46b0-a1b4-2422a364fae3/draft/1d4481aa-204a-4cb5-a40a-82e4369d16b2.html",
         "difficulty": "medium",
