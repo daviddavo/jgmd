@@ -390,6 +390,13 @@
     },
 
     {
+        "name": "Infinibrowser",
+        "url": "https://infinibrowser.wiki/profile/settings",
+        "difficulty": "easy",
+        "notes": "Go to the url provided and press the Download button under Privacy."
+    },
+
+    {
         "name": "ING",
         "url": "https://www.ing.com/Privacy-Statement.htm",
         "difficulty": "hard",
