@@ -706,6 +706,16 @@
     },
 
     {
+        "name": "Quaidesamours",
+        "url": "https://www.quaidesamours.com",
+        "difficulty": "easy",
+        "notes": "You can easily contact the team through the contact page or email listed in the site's footer. Data access or deletion requests are handled manually upon request.",
+        "email": "contact@quaidesamours.com",
+        "email_subject": "Personal Data Request",
+        "email_body": "Hello, I would like to request access to or deletion of my personal data associated with my account on your site. Please confirm receipt of this request. Thank you."
+    },
+
+    {
         "name": "Reddit",
         "meta": "popular",
         "url": "https://www.reddit.com/settings/data-request",
