@@ -206,6 +206,13 @@
     },
 
     {
+        "name": "DeviantArt",
+        "url": "https://www.deviantart.com/settings/gdpr/",
+        "difficulty": "impossible",
+        "notes": "The GDPR link is not shown publicly - you must know the URL directly. The data provided is very limited (no private messages, no comments on arts, only basic account information like username, email, and IP addresses). Account deactivation available at https://www.deviantart.com/settings/deactivation but no account deletion option found."
+    },
+
+    {
         "name": "Discord",
         "url": "https://discord.com",
         "difficulty": "easy",
