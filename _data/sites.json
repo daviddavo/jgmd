@@ -518,6 +518,13 @@
     },
 
     {
+        "name": "MEGA",
+        "url": "https://mega.nz/fm/account/security",
+        "difficulty": "easy",
+        "notes": "Log in and navigate to Settings → Security. Under \"Download your personal data,\" click the \"Download\" button to receive a file with your account and metadata. Note: This does not include your stored files, only metadata and account info."
+    },
+
+    {
         "name": "Microsoft",
         "url": "https://microsoft.com/",
         "difficulty": "hard",
