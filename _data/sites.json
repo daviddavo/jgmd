@@ -903,10 +903,10 @@
 
     {
         "name": "Twitch",
-        "url": "https://www.twitch.tv/p/legal/privacy-notice/",
-        "difficulty": "hard",
-        "notes": "Send an email to [privacy@twitch.tv](mailto:privacy@twitch.tv) and include your name, address, telephone number and all relevant background.",
-        "notes_es-ES": "Envía un email a [privacy@twitch.tv](mailto:privacy@twitch.tv) incluyendo tu nombre, dirección, número de telefono y otros datos relevantes."
+        "url": "https://twitch.tv/settings/security",
+        "difficulty": "easy",
+        "notes": "In Security and Privacy tab on Settings, press \"Request a Copy of Your Data\" button, select categories and the date range of the data that you want, and submit a request. Request should be completed within 14 days. You will receive Twitch notification once your data is ready to download.",
+        "notes_ko-KR": "설정의 Security and Privacy 탭에서 \"Request a Copy of Your Data\" 버튼을 누르고 원하는 데이터의 카테고리와 날짜 범위를 선택한 후 요청을 제출하세요. 요청은 14일 이내에 완료될 것입니다. 데이터를 다운로드할 준비가 되면 Twitch 알림을 받을 것입니다."
     },
 
     {
