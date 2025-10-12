@@ -5,7 +5,7 @@
     "difficulty_easy": "jednoduché",
     "difficulty_hard": "těžké",
     "difficulty_impossible": "nemožné",
-    "difficulty_limited": "limited availability",
+    "difficulty_limited": "limitované",
     "difficulty_medium": "středně těžké",
     "footercredits": "Vytvořeno",
     "footerlicense": "Toto dílo je licencováno pod licencí Creative Commons Uveďte autora 4.0 International License.",
@@ -14,7 +14,7 @@
     "guideexplanations": "Odkazy jsou barevně označeny tak, aby naznačovali obtížnost stažení dat:",
     "guidehard": "Není možné stáhnout své data bez kontaktování podpory",
     "guideimpossible": "Data nemůžou být staženy",
-    "guidelimited": "Cannot be obtained without verifying you live in an area with privacy laws",
+    "guidelimited": "Nelze získat bez ověření, zda žijete v oblasti se zákony o ochraně osobních údajů",
     "guidemedium": "Potřeba provést několik kroků navíc",
     "hideinfo": "skrýt podrobnosti...",
     "link_jdm": "Navštivte JustDeleteMe",
@@ -36,5 +36,5 @@
     "whatisthis1": "Mnoho společností používá",
     "whatisthis2": "tmavý vzor",
     "whatisthis3": "techniky, aby ztížily nalezení postupu na stažení Vašich dat. JustGetMyData má za cíl být seznamem odkazů, který umožňuje jednoduše stáhnout Vaše data z internetových služeb.",
-    "whatisthis4": "Máte nápad na stránku, o který si myslíte, že by měla být přidána?"
+    "whatisthis4": "Máte nápad na stránku, o které si myslíte, že by měla být přidána?"
 }
