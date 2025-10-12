@@ -16,6 +16,7 @@ mapfile -t editorconfigargs < <(
         ! -path './.bundle/*' \
         ! -path './.git/*' \
         ! -path './_site/*' \
+        ! -path './.jekyll-cache/*' \
         ! -path './vendor/*' \
 )
 npx @htmlacademy/editorconfig-cli "${editorconfigargs[@]}"

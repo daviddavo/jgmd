@@ -14,7 +14,7 @@ module JustGetMyData
             # TODO: Check if flag exists
             @lang = lang
             @short = lang.split('-')[0]
-            
+
             @site = site
             @base = base
             @dir = @short
