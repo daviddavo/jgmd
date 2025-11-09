@@ -397,6 +397,13 @@
     },
 
     {
+        "name": "Hypixel",
+        "url": "https://hypixel.net/data-request",
+        "difficulty": "hard",
+        "notes": "Go to the URL above and submit a request. Image of government-issued ID is required."
+    },
+
+    {
         "name": "Infinibrowser",
         "url": "https://infinibrowser.wiki/profile/settings",
         "difficulty": "easy",
