@@ -1015,6 +1015,13 @@
     },
 
     {
+        "name": "WeChat",
+        "url": "https://help.wechat.com/cgi-bin/micromsg-bin/oshelpcenter?opcode=2&id=171213ezniaf1712137znmer",
+        "difficulty": "easy",
+        "notes": "Go to WeChat > Me > Settings > Privacy > My Information & Authorizations > View and Export Personal Data to request your data."
+    },
+
+    {
         "name": "WhatsApp",
         "meta": "popular",
         "url": "https://www.whatsapp.com/",
