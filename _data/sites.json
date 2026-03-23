@@ -312,6 +312,13 @@
         "notes": "Send an email requesting a copy of your data to privacy-officer@freelancer.com.",
         "email": "privacy-officer@freelancer.com"
     },
+    {
+        "name": "GCS Cheats",
+        "url": "https://gcscheats.com/",
+        "difficulty": "hard",
+        "notes": "Send an email requesting a copy of your data to contact@gcscheats.com.",
+        "email": "contact@gcscheats.com"
+    },
 
     {
         "name": "GearBest",
