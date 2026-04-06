@@ -1016,6 +1016,13 @@
     },
 
     {
+        "name": "VRChat",
+        "url": "https://help.vrchat.com/hc/requests/new",
+        "difficulty": "hard",
+        "notes": "Go to the linked website, make a ZenDesk account, and submit a request to download your account data. IMPORTANT: After VRChat makes your data available, the download URL will be kept active indefinitely, even if you delete your VRChat account at a later date. This effectively means VRChat will still have a copy of your data after account deletion. YOU MUST make a separate request asking for your ZenDesk account, support tickets, and data packages be deleted to fully remove all information from VRChat."
+    },
+
+    {
         "name": "Walmart",
         "url": "https://cpa-ui.walmart.com/affirmation?brandCode=WMT",
         "difficulty": "hard",
