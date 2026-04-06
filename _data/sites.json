@@ -737,6 +737,14 @@
     },
 
     {
+        "name": "QuickSEO",
+        "url": "https://quickseo.ai/docs/get-your-data",
+        "difficulty": "hard",
+        "email": "support@quickseo.ai",
+        "notes": "Email support@quickseo.ai to request your account data. They will send it to you by email."
+    },
+
+    {
         "name": "Reddit",
         "meta": "popular",
         "url": "https://www.reddit.com/settings/data-request",
