@@ -173,6 +173,13 @@
     },
 
     {
+        "name": "Chess.com",
+        "url": "https://www.chess.com/my-data/download",
+        "difficulty": "easy",
+        "notes": "Fill your account's email and the captcha below, then click \"Show My Data\" and save the single-page PDF."
+    },
+
+    {
         "name": "Chick-fil-A",
         "url": "https://privacyportal.onetrust.com/webform/63dc78c7-5612-4181-beae-47dead0569ee/01252c81-82df-4db5-9cb8-bf23a62a9a55",
         "difficulty": "medium",
