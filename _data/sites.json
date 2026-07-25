@@ -917,6 +917,13 @@
     },
 
     {
+        "name": "Trakt",
+        "url": "https://app.trakt.tv/settings/data",
+        "difficulty": "easy",
+        "notes": "In Data tab in Settings, click the \"Export now\" button under the Export section. Request will be completed on the spot and download will begin shortly."
+    },
+
+    {
         "name": "Twitch",
         "url": "https://twitch.tv/settings/security",
         "difficulty": "easy",
