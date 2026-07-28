@@ -931,6 +931,13 @@
     },
 
     {
+        "name": "TutorialSearch",
+        "url": "https://tutorialsearch.io/account",
+        "difficulty": "easy",
+        "notes": "Sign in and go to your Account page, then click \"Download my data\" under \"Export your data\". A JSON file with your saved tutorials, collections and progress downloads instantly."
+    },
+
+    {
         "name": "Twitch",
         "url": "https://twitch.tv/settings/security",
         "difficulty": "easy",
