@@ -791,6 +791,13 @@
     },
 
     {
+        "name": "SalahClock",
+        "url": "https://salahclock.app/dashboard/account",
+        "difficulty": "easy",
+        "notes": "Sign in and open Account from the menu, then click \"Download my data\" to instantly download a JSON file containing all of your account data."
+    },
+
+    {
         "name": "Samsung",
         "url": "https://privacy.samsung.com/mydata/downloads/request",
         "difficulty": "medium",
