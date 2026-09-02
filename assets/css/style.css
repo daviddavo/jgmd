@@ -51,6 +51,11 @@ nav {
 .dropdown .nl-NL a,    .nl-NL a    { background-image: url(../icons/flags/nl-NL16.png); }
 .dropdown .it-IT a,    .it-IT a    { background-image: url(../icons/flags/it-IT16.png); }
 .dropdown .pl-PL a,    .pl-PL a    { background-image: url(../icons/flags/pl-PL16.png); }
+.dropdown .he-IL a,    .he-IL a    { background-image: url(../icons/flags/he-IL16.png); }
+.dropdown .ko-KR a,    .ko-KR a    { background-image: url(../icons/flags/kr16.png); }
+.dropdown .ro-RO a,    .ro-RO a    { background-image: url(../icons/flags/ro16.png); }
+.dropdown .ru-RU a,    .ru-RU a    { background-image: url(../icons/flags/ru16.png); }
+.dropdown .sv-SE a,    .sv-SE a    { background-image: url(../icons/flags/sv16.png); }
 
 #cs-CZ    { background-image: url(../icons/flags/cs-CZ24.png); }
 #en-GB    { background-image: url(../icons/flags/en-GB24.png); }
@@ -63,6 +68,11 @@ nav {
 #nl-NL    { background-image: url(../icons/flags/nl-NL24.png); }
 #it-IT    { background-image: url(../icons/flags/it-IT24.png); }
 #pl-PL    { background-image: url(../icons/flags/pl-PL24.png); }
+#he-IL    { background-image: url(../icons/flags/he-IL24.png); }
+#ko-KR    { background-image: url(../icons/flags/kr24.png); }
+#ro-RO    { background-image: url(../icons/flags/ro24.png); }
+#ru-RU    { background-image: url(../icons/flags/ru24.png); }
+#sv-SE    { background-image: url(../icons/flags/sv24.png); }
 
 nav a {
     color: black;
