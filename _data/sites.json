@@ -97,6 +97,13 @@
     },
 
     {
+        "name": "Authier",
+        "url": "https://www.authier.pm/guides/password-manager-import-export",
+        "difficulty": "easy",
+        "notes": "Open the Authier browser extension's full-page vault, select \"Import & Export\", then choose \"Export Login Credentials to CSV\" or \"Export TOTP to CSV\". The downloaded CSV files contain plaintext secrets, so protect or delete them after use."
+    },
+
+    {
         "name": "Badlion",
         "url": "https://www.badlion.net/settings?lang=en",
         "url_de-DE": "https://www.badlion.net/settings?lang=de",
