@@ -449,6 +449,12 @@
     },
 
     {
+        "name": "Karaoke Captions",
+        "url": "https://karaokecaptions.com/account/#data",
+        "difficulty": "easy",
+        "notes": "Sign in and click \"Download my data\" under \"Your data\" to download a JSON file immediately. It includes account details, profile and email preferences, synced caption styles, Pro plan information and styles saved in this browser. Videos, audio and transcripts are processed on your device and are never uploaded, so they are not included in the account data export."
+    },
+    {
         "name": "Kwai",
         "url": "https://www.kwai.com/legal?type=1",
         "difficulty": "hard",
