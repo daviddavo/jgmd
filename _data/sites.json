@@ -763,6 +763,13 @@
     },
 
     {
+        "name": "Qwen Studio",
+        "url": "https://chat.qwen.ai/settings/chats",
+        "difficulty": "easy",
+        "notes": "Click your profile button, go to Settings > Chats, then click \"Export Chats\". Only chat exports are available; personalized memory cannot be exported."
+    },
+
+    {
         "name": "Reddit",
         "meta": "popular",
         "url": "https://www.reddit.com/settings/data-request",
