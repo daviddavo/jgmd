@@ -24,6 +24,14 @@
     },
 
     {
+        "name": "AISkyla",
+        "url": "https://aiskyla.com/privacy",
+        "difficulty": "hard",
+        "email": "support@aiskyla.com",
+        "notes": "Contact customer support via email to request a copy of your personal data."
+    },
+
+    {
         "name": "Akinator",
         "url": "https://en.akinator.com/content/13/privacy-policy",
         "difficulty": "hard",
