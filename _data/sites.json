@@ -395,6 +395,15 @@
     },
 
     {
+        "name": "host0",
+        "url": "https://host0.ai/docs/get-your-data",
+        "difficulty": "hard",
+        "notes": "Email support from the address you sign in with to request your data.",
+        "email": "support@host0.ai",
+        "email_body": "Please send me my host0 account data. I sign in with XXXXXX."
+    },
+
+    {
         "name": "Huawei",
         "url": "https://consumer.huawei.com/en/support/content/en-us00746223/",
         "difficulty": "medium",
