@@ -770,6 +770,13 @@
     },
 
     {
+        "name": "Recordwell",
+        "url": "https://recordwell.ai/opt-out",
+        "difficulty": "hard",
+        "notes": "Choose 'Access / know what you have about me' in the Request type menu. Enter your full name, the state or region associated with the information, and your email, then submit the form and follow the email verification link. The privacy-request page is free and does not require an account. The published instructions do not specify a data-file format or a fixed completion time."
+    },
+
+    {
         "name": "Reddit",
         "meta": "popular",
         "url": "https://www.reddit.com/settings/data-request",
